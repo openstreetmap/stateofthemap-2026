@@ -30,28 +30,22 @@ h6 {
 h1 {
   font-size: 36px;
   font-weight: 900;
-  color: #ffc700;
-  text-shadow: 2px 2px #f92329;
+  color: {{ site.color.text }};
   font-variant: small-caps;
 }
 
 h2 {
   font-size: 28px;
   font-weight: 900;
-  color: #ffc700;
-  text-shadow: 2px 2px #f92329;
+  color: {{ site.color.text }};
 }
 
 h3 {
   font-size: 18px;
   text-decoration: underline;
-  text-decoration-color: #ffc700;
+  color: {{ site.color.text }};
   text-decoration-thickness: 3px;
   text-decoration-skip-ink: none;
-}
-
-path.map-marker {
-  filter: drop-shadow(2px 2px 0px #f92329);
 }
 
 .prose h2 {
@@ -145,7 +139,7 @@ footer a:focus,
 .navbar-custom {
     letter-spacing: 1px;
     margin-bottom: 0;
-    border-bottom: 0.5px solid {{ site.color.primary-light }};
+    border-bottom: 2.5px solid {{ site.color.links }};
     background-color: {{ site.color.primary-dark }};
     font-weight: 500;
 }
@@ -202,7 +196,7 @@ footer a:focus,
         background-position-x: center;
         background-position-y: top;
         background-size: cover;
-        border-bottom: 0.5px solid {{ site.color.links }};
+        border-bottom: 2.5px solid {{ site.color.links }};
     }
 
     .navbar-custom.top-nav-collapse {
@@ -210,11 +204,15 @@ footer a:focus,
         background-position-x: center;
         background-position-y: top;
         background-size: cover;
-        border-bottom: 2px solid {{ site.color.links }};
+        border-bottom: 2.5px solid {{ site.color.links }};
     }
 
-    .navbar a, .navbar a:hover {
-        filter: drop-shadow(0 0 0.8px black);
+    .navbar a {
+        filter: drop-shadow(0 0 0.4px #333) drop-shadow(0 0 1.6px black);
+    }
+
+    .navbar a:hover {
+        filter: drop-shadow(0 0 1.4px black);
     }
 
     a.navbar-brand {
@@ -240,22 +238,19 @@ footer a:focus,
     text-align: center;
     color: #fff;
     position: relative;
-    background-image: url(./img/manila.jpg);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    background-image: url(./img/header.jpg);
     background-size: cover;
-    -o-background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position-y: bottom;
-    background-position-x: right;
+    background-position-y: top;
+    background-position-x: left;
 }
-
-@supports (background-image: url(./img/manila.webp)) {
+/*
+@supports (background-image: url(./img/header.jpg)) {
   .intro {
-    background-image: url(./img/manila.webp);
+    background-image: url(./img/header.jpg);
   }
-}
+}*/
 
 .intro .intro-body {
     display: table-cell;
@@ -268,19 +263,23 @@ footer a:focus,
     display: inline-block;
     width: auto;
     margin-top: 50px;
-    background-color: rgba(255, 255, 255, 0.7);
+    /*background-color: rgba(255, 255, 255, 0.7);*/
+    background-color: none;
     padding: 40px;
     border-radius: 0;
 }
 
 .intro .intro-body .logo > img {
     width: 300px;
-    display: block;
+    /*display: block;*/
+    display: none;
 }
 
 .intro .intro-body .logo > h1 {
     max-width: 300px;
     margin-top: 20px;
+    color: {{ site.color.text-light }};
+    display: none;
 }
 
 .intro .intro-body .attending {
@@ -341,8 +340,9 @@ header.intro .credits {
     header.intro {
         background-attachment: local;
         position: relative;
-        background-position-x: right 20%;
-        height: 420px
+        background-position-x: left 20%;
+        height: 420px;
+        margin-top: 50px;
     }
     header.intro h1 {
       display: none;
@@ -375,8 +375,8 @@ header.intro .credits {
     .intro .intro-body .logo {
         font-size: 100px;
         padding-bottom: 60px;
-        margin-left: 8%;
-        float: right;
+        /*margin-left: 8%;
+        float: right;*/
         /*margin-top: 100px;*/
         margin-bottom: 100px;
     }
@@ -398,7 +398,7 @@ header.intro .credits {
     padding: 14px 13px;
     border-radius: 35px;
     font-size: 40px;
-    color: {{ site.color.text-light }};
+    color: {{ site.color.text }};
     background-color: {{ site.color.primary-dark }};
     -webkit-transition: background .3s ease-in-out, text .3s ease-in-out;
     -moz-transition: background .3s ease-in-out, text .3s ease-in-out;
@@ -410,6 +410,7 @@ header.intro .credits {
     outline: 0;
     color: #fff;
     background: {{ site.color.primary-light }};
+    color: {{ site.color.text-light }};
 }
 
 .btn-circle i.animated {
@@ -557,8 +558,6 @@ footer p {
 }
 
 footer img.logo {
-  width: auto;
-  height: 200px;
   margin-top: -30px;
   margin-bottom: -10px;
 }
