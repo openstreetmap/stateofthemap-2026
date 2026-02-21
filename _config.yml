@@ -1,5 +1,5 @@
 # Site settings
-title: "State of the Map 2026 – Paris"
+title: "State of the Map 2026 × Paris"
 email: sotm@openstreetmap.org
 description: "The global OpenStreetMap conference. 2026 in Paris & online."
 url: "http://2026.stateofthemap.org" # the base hostname & protocol for your site
@@ -11,8 +11,8 @@ markdown: kramdown
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-light: '#c60e16' # main: red
-  primary-dark: '#1e1ec3' # secondary: blue
+  primary-light: '#822f42' # main: red
+  primary-dark: '#002b5e' # secondary: blue
   background-light: '#004dd0'
   links: '#ddd'
   links-light: '#fff'

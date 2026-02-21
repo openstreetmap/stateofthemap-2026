@@ -5,7 +5,7 @@ body {
     font-size: 17px;
     color: {{ site.color.text }};
     background-color: {{ site.color.background-light }};
-    background: linear-gradient(to right, #1e1ec3 0%, #004dd0 35%);
+    background: linear-gradient(to right, #1e1ec3 0%, #002b5e 25%);
 }
 
 html {
@@ -593,7 +593,7 @@ body {
 ------------------------------------------------------- */
 #about {
   background-color: {{ site.color.primary-dark }};
-  background: linear-gradient(to right, #1e1ec3 0%, #004dd0 35%);
+  background: linear-gradient(to right, #1e1ec3 0%, #002b5e 25%);
 }
 #about.keyline-top {
 }
@@ -746,10 +746,11 @@ svg.icon {
     font-size: 15px;
     line-height: 1.75em;
     background-color: {{ site.color.primary-light }};
-    background: linear-gradient(to bottom, #d61b23 0%, #87090f 100%);
+    background: linear-gradient(to bottom, #87090f 0%, #87090f 100%);
     background-size: cover;
     background-position-x: center;
     background-position-y: bottom;
+    border-top: 25px solid white;
 }
 
 #footer a {
@@ -833,7 +834,7 @@ nav .navbar-brand {
 
 #sponsors {
     background-color: {{ site.color.primary-dark }};
-    background: linear-gradient(to right, #1e1ec3 0%, #004dd0 35%);
+    background: linear-gradient(to right, #1e1ec3 0%, #002b5e 25%);
     color: {{ site.color.text }};
 }
 
