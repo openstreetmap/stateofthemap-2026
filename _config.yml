@@ -11,14 +11,14 @@ markdown: kramdown
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-light: '#822f42' # main: red
-  primary-dark: '#002b5e' # secondary: blue
-  background-light: '#002b5e'
+  primary-light: '#c60e16' # main: red
+  primary-dark: '#1e1ec3' # secondary: blue
+  background-light: '#004dd0'
   links: '#ddd'
   links-light: '#fff'
-  links-white: '#822f42'
-  text: '#ddd'
-  text-light: '#002b5e'
+  links-white: '#c60e16'
+  text: '#eee'
+  text-light: '#004dd0'
 
 
 

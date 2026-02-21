@@ -31,7 +31,7 @@ h1 {
   font-size: 36px;
   font-weight: 900;
   color: {{ site.color.text }};
-  font-variant: small-caps;
+  font-family: "Righteous", sans-serif;
 }
 
 h2 {
@@ -96,6 +96,10 @@ div.affix {
 }
 
 .navbar, .navbar a, .navbar a:hover {
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
     color: {{ site.color.links-light }};
 }
 
@@ -192,7 +196,8 @@ footer a:focus,
 
     .top-nav-collapse, .stay-collapsed {
         padding: 0;
-        background-color: {{ site.color.primary-light }};
+        /*background-color: {{ site.color.primary-light }};*/
+        background-color: white;
         background-position-x: center;
         background-position-y: top;
         background-size: cover;
@@ -200,7 +205,8 @@ footer a:focus,
     }
 
     .navbar-custom.top-nav-collapse {
-        background-color: {{ site.color.primary-light }};
+        /*background-color: {{ site.color.primary-light }};*/
+        background-color: white;
         background-position-x: center;
         background-position-y: top;
         background-size: cover;
@@ -209,6 +215,13 @@ footer a:focus,
 
     .navbar a {
         filter: drop-shadow(0 0 0.4px #333) drop-shadow(0 0 1.6px black);
+    }
+
+    .navbar.stay-collapsed a,
+    .navbar-custom.top-nav-collapse a {
+        background: linear-gradient(to bottom, #d61b23 0%, #87090f 100%);
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
     }
 
     .navbar a:hover {
@@ -260,19 +273,18 @@ footer a:focus,
 .intro .intro-body .logo {
     font-size: 40px;
     text-align: center;
-    display: inline-block;
+    display: block;
     width: auto;
     margin-top: 50px;
-    /*background-color: rgba(255, 255, 255, 0.7);*/
-    background-color: none;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 180px;
     padding: 40px;
-    border-radius: 0;
+    float: left;
 }
 
 .intro .intro-body .logo > img {
     width: 300px;
-    /*display: block;*/
-    display: none;
+    display: block;
 }
 
 .intro .intro-body .logo > h1 {
@@ -581,6 +593,7 @@ body {
 ------------------------------------------------------- */
 #about {
   background-color: {{ site.color.primary-dark }};
+  background: linear-gradient(to right, #1e1ec3 0%, #004dd0 100%);
 }
 #about.keyline-top {
 }
@@ -733,6 +746,7 @@ svg.icon {
     font-size: 15px;
     line-height: 1.75em;
     background-color: {{ site.color.primary-light }};
+    background: linear-gradient(to bottom, #d61b23 0%, #87090f 100%);
     background-size: cover;
     background-position-x: center;
     background-position-y: bottom;
