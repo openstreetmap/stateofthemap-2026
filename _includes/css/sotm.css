@@ -5,6 +5,7 @@ body {
     font-size: 17px;
     color: {{ site.color.text }};
     background-color: {{ site.color.background-light }};
+    background: linear-gradient(to right, #1e1ec3 0%, #004dd0 35%);
 }
 
 html {
@@ -593,7 +594,7 @@ body {
 ------------------------------------------------------- */
 #about {
   background-color: {{ site.color.primary-dark }};
-  background: linear-gradient(to right, #1e1ec3 0%, #004dd0 100%);
+  background: linear-gradient(to right, #1e1ec3 0%, #004dd0 35%);
 }
 #about.keyline-top {
 }
@@ -833,6 +834,7 @@ nav .navbar-brand {
 
 #sponsors {
     background-color: {{ site.color.primary-dark }};
+    background: linear-gradient(to right, #1e1ec3 0%, #004dd0 35%);
     color: {{ site.color.text }};
 }
 
