@@ -43,7 +43,6 @@ h2 {
 
 h3 {
   font-size: 18px;
-  text-decoration: underline;
   color: {{ site.color.text }};
   text-decoration-thickness: 3px;
   text-decoration-skip-ink: none;
