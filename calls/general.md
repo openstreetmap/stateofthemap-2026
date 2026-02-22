@@ -169,9 +169,10 @@ Your submissions will be reviewed by a programme committee consisting of OpenStr
 * Enock Seth Nyamador (mapper, Ghana and Germany)
 * Feye Andal (OSM Philippines)
 * Laura Mugeha (Kenya)
-* Minh Nguyen
+* Michael Montani (UN Mappers, Italy)
+* Minh Nguyễn (EWG, USA)
 * Stefan Keller (Geometa Lab Campus Rapperswil, Eastern Switzerland University of Applied Sciences (FH OST), Switzerland)
-* Vincent de Château-Thierry
+* Vincent de Château-Thierry (local team, France)
 
 The programme committee is aware of possible conflict of interest situations. We try to balance that in the composition of the committee. Nevertheless, we have imposed some rules upon ourselves to handle conflict of interest situations:
 
