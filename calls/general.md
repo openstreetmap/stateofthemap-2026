@@ -171,6 +171,7 @@ Your submissions will be reviewed by a programme committee consisting of OpenStr
 * Laura Mugeha (Kenya)
 * Michael Montani (UN Mappers, Italy)
 * Minh Nguyễn (EWG, USA)
+* Richard Fairhurst (cycle.travel, UK)
 * Stefan Keller (Geometa Lab Campus Rapperswil, Eastern Switzerland University of Applied Sciences (FH OST), Switzerland)
 * Vincent de Château-Thierry (local team, France)
 
