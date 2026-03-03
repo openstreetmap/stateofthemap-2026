@@ -34,7 +34,7 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
-- <s>27 April 2026: Deadline OSM-Science talk submissions</s>
+- **27 April 2026: Deadline OSM-Science talk submissions**
 - 15 June 2026: Notification of acceptance / rejection
 - 29 June 2026: Program announcement
 - 1 August 2026: Camera ready copy for proceedings deadline
@@ -71,3 +71,10 @@ Yair earned his PhD in Geography from the [Hebrew University of Jerusalem](https
 <em>LASTIG, Gustave Eiffel University, Géodata Paris, and French National Mapping Agency (IGN)</em>
 
 [Ana-Maria](https://www.umr-lastig.fr/members/Ana-Maria-Olteanu-Raimond/) is a Senior Researcher in the LASTIG laboratory (Laboratory on Geographic Information Science for Sustainable Development and Smart Cities) from Gustave Eiffel University, Géodata Paris, and French National Mapping Agency (IGN). Her current methodological research interests include heterogeneous spatial data integration, imperfect information fusion, collaborative mechanisms and quality assessment of volunteered geographic information, including OpenStreetMap for joint use with authoritative spatial data. Her thematic research are focused on Land Use Land Cover Mapping, sustainability mobility and tourism, cities evolutions. She is currently the deputy-director of the [LASTIG](https://www.umr-lastig.fr/), action-editor of [Geoinformatica](https://link.springer.com/journal/10707/editorial-board) journal, as well as the co-head of the GDR CNRS MAGIS French Research Action : [Volunteered geographic information and crowdsourcing](https://gdr-magis.cnrs.fr/actions-de-recherche/).
+
+<h3>Dr. Julien Perret</h3>
+<em>LASTIG, Gustave Eiffel University</em>
+Julien is a senior researcher at the LASTIG lab, a research group in Geographic Information sciences. His research interest include geohistorical data, spatial humanities and geospatial simulation.
+
+<h3>Dr. Juste Raimbault</h3>
+<em>LASTIG, Gustave Eiffel University</em>
