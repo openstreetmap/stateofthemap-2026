@@ -1,6 +1,6 @@
 ---
 layout: page-with-toc
-title: "OSM Science 2025 - Call&nbsp;for Abstracts"
+title: "OSM Science 2026 - Call&nbsp;for Abstracts"
 titlecontent: ""
 headings: "intro,guidelines,timeline_deadlines,submit,committee"
 ---
