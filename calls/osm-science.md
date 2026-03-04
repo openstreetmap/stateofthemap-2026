@@ -26,9 +26,9 @@ Abstracts must be scientifically rigorous, and the content should be logically s
 
 In the evaluation of proposals, the scientific committee will pay particular attention to the reproducibility of the research (where this is applicable). Reproducibility is ensured when the research makes all artifacts (input data, computational steps, methods and code) openly available to obtain consistent results. When available, the code shall be released under an open source license.
 
-Abstracts are to be submitted online in plain-text format. You have the possibility to submit up to 3 figures that will accompany your submission, demonstrating the results already produced by the research. This is optional and not mandatory. Figures should be added only whether/when necessary and must be clear and legible. All figures must be referenced in the text and clearly numbered according to the order in which they appear in the text.
+Abstracts are to be submitted online (see link below) in plain-text format. You have the possibility to submit up to 3 figures that will accompany your submission, demonstrating the results already produced by the research. This is optional and not mandatory. Figures should be added only whether/when necessary and must be clear and legible. All figures must be referenced in the text and clearly numbered according to the order in which they appear in the text.
 
-Abstracts will be evaluated by the scientific committee and external reviewers, when needed. Authors of selected abstracts will be invited to deliver an oral presentation or a lightning talk during the OSM Science 2025 sessions at the conference, or to present a poster (in case a poster session will be organised). Building on top of the successful proceedings of previous editions of the Academic Track ([2023](https://zenodo.org/records/10443403), [2022](https://zenodo.org/record/7004791), [2021](https://zenodo.org/record/5116434), [2020](https://zenodo.org/record/3928675), [2019](https://zenodo.org/record/3405431)), authors of the selected submissions will be required to submit extended abstracts (up to four pages in length and including a maximum of one figure). These extended abstracts will be published in the OSM Science 2025 Conference Proceedings, each with a distinct Digital Object Identifier (DOI) in [Zenodo](https://zenodo.org/), an open access online repository.
+Abstracts will be evaluated by the scientific committee and external reviewers, when needed. Authors of selected abstracts will be invited to deliver an in-person oral presentation or an in-person lightning talk during the OSM Science 2026 sessions at the conference. Building on top of the successful proceedings of previous editions of the Academic Track ([2023](https://zenodo.org/records/10443403), [2022](https://zenodo.org/record/7004791), [2021](https://zenodo.org/record/5116434), [2020](https://zenodo.org/record/3928675), [2019](https://zenodo.org/record/3405431)), authors of the selected submissions will be required to submit extended abstracts (up to four pages in length and including a maximum of one figure). These extended abstracts will be published in the OSM Science 2025 Conference Proceedings, each with a distinct Digital Object Identifier (DOI) in [Zenodo](https://zenodo.org/), an open access online repository.
 
 The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.com/journal/ijgi/special_issues/OpenStreetMap) of the [ISPRS International Journal of Geo-Information](https://www.mdpi.com/journal/ijgi). Similarly and upon interest from the authors of the abstracts, the scientific committee may seek to further disseminate the contributions to this conference by investigating the organization of a special issue in a relevant, open access, scientific journal. In such a case, authors of the selected abstracts will be invited to submit a full paper to this special issue. Successful submissions may benefit from partial or full waiver of publication fees.
 
@@ -42,39 +42,40 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 
 <h2 id="submit">Submit your presentation proposal</h2>
 
-Please submit your presentation proposal to our **[submission form](https://pretalx.com/sotm2026-osm-science/cfp)**.
+Please submit your presentation proposal for OSM-Science 2026 to our specific **[submission form](https://pretalx.com/sotm2026-osm-science/cfp)**.
 
-<h2 id="committee">Co-chairs</h2>
+<h2 id="committee">Academic Track Co-chairs and Committee</h2>
 
-You can reach the academic track committee via email to <a href="mailto:academic-sotm@openstreetmap.org">academic-sotm@openstreetmap.org</a>.
+You can reach the academic track committee via email to <a href="mailto:academic-sotm@openstreetmap.org">academic-sotm@openstreetmap.org</a>. Questions related specifically to the OSM-Science/Academic Track of SotM 2026 should be directed to the committee. 
 
 <h3>Dr. Marco Minghini</h3>
 <!-- <img class="bio-pic" src="../../img/bios/Marco.jpg">-->
-<em>[European Commission - Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en), Ispra, Italy.</em>
+European Commission - Joint Research Centre, JRC, Ispra, Italy.
 
 Marco's career as a researcher started at [Politecnico di Milano](https://www.polimi.it/en/), where he got a PhD in GIS in 2014 and a post-doctoral fellowship in the [GIS group of GEOlab](https://www.gisgeolab.polimi.it/). In 2018 he joined the [European Commission - Joint Research Center (JRC)](https://joint-research-centre.ec.europa.eu/index_en) in Ispra, Italy, where he currently works as a Scientific Project Officer and Policy Analyst, supporting EU policies around (geo)data sharing. Marco is an advocate of open source software and open data and has a longstanding experience in OSM both as a contributor and as a [researcher](https://wiki.openstreetmap.org/wiki/User:Mingo23). He is a Charter Member of [OSGeo](https://www.osgeo.org/), Chair of [ISPRS ICWG IV/III/II “Openness in Geospatial Science and Remote Sensing"](https://www2.isprs.org/commissions/comm4/icwg-4-3-2/), Member of the [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Main_Page) and Voting Member of the [Humanitarian OpenStreetMap Team](https://www.hotosm.org/).
 
 <h3>Dr. A. Yair Grinberger</h3>
 <!-- <img class="bio-pic" src="../../img/bios/Yair.jpg">-->
-<em>[Department of Geography](https://en.geography.huji.ac.il/), The Hebrew University of Jerusalem, Israel</em>
+Department of Geography, The Hebrew University of Jerusalem, Israel
 
 Yair earned his PhD in Geography from the [Hebrew University of Jerusalem](https://new.huji.ac.il/en), studying human mobility behaviors using GPS traces. During his postdoctoral research at the [GIScience Research Group](http://giscience.uni-hd.de/) in Heidelberg University, Germany he focused on large-scale data production events in OpenStreetMap and their effects. In his current research Yair studies, among other issues, the co-construction of mapping practices and data outputs. His broader research interests include Geographic Information Science, critical GIS, and digital representations of cultural and social phenomena and issues.
 
 <h3>Dr. Peter Mooney</h3>
 <!-- <img class="bio-pic landscape" src="../../img/bios/Peter.jpg">-->
-<em>Department of Computer Science, Maynooth University, Ireland</em>
+Department of Computer Science, Maynooth University, Ireland
 
 [Peter](https://www.cs.nuim.ie/~pmooney/) is an Associate Professor at the Dept. of Computer Science in [Maynooth University](https://www.maynoothuniversity.ie/) and has been working in the domain of geospatial data research for almost two decades. He is particularly interested in understanding the processes behind the collection of VGI data and how computing techniques such as machine learning can be applied to these datasets and sources. He is heavily involved in [OSGeo](https://www.osgeo.org/) activities in Ireland. His teaching philosophy sees the exclusive use of FOSS4G (Free and Open Source Software for Geomatics) and Open Data for all student teaching and learning activities. He is currently an editor of the [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671) journal.
 
 <h3>Dr. Ana-Maria Olteanu-Raimond</h3>
 <!-- <img class="bio-pic" src="../../img/bios/Ana-maria.png"> -->
-<em>LASTIG, Gustave Eiffel University, Géodata Paris, and French National Mapping Agency (IGN)</em>
+LASTIG, Gustave Eiffel University, Géodata Paris, and French National Mapping Agency (IGN)
 
 [Ana-Maria](https://www.umr-lastig.fr/members/Ana-Maria-Olteanu-Raimond/) is a Senior Researcher in the LASTIG laboratory (Laboratory on Geographic Information Science for Sustainable Development and Smart Cities) from Gustave Eiffel University, Géodata Paris, and French National Mapping Agency (IGN). Her current methodological research interests include heterogeneous spatial data integration, imperfect information fusion, collaborative mechanisms and quality assessment of volunteered geographic information, including OpenStreetMap for joint use with authoritative spatial data. Her thematic research are focused on Land Use Land Cover Mapping, sustainability mobility and tourism, cities evolutions. She is currently the deputy-director of the [LASTIG](https://www.umr-lastig.fr/), action-editor of [Geoinformatica](https://link.springer.com/journal/10707/editorial-board) journal, as well as the co-head of the GDR CNRS MAGIS French Research Action : [Volunteered geographic information and crowdsourcing](https://gdr-magis.cnrs.fr/actions-de-recherche/).
 
 <h3>Dr. Julien Perret</h3>
-<em>LASTIG, Gustave Eiffel University</em>
+LASTIG, Gustave Eiffel University, Paris.
+
 Julien is a senior researcher at the LASTIG lab, a research group in Geographic Information sciences. His research interest include geohistorical data, spatial humanities and geospatial simulation.
 
 <h3>Dr. Juste Raimbault</h3>
-<em>LASTIG, Gustave Eiffel University</em>
+LASTIG, Gustave Eiffel University, Paris.
