@@ -79,3 +79,9 @@ Julien is a senior researcher at the LASTIG lab, a research group in Geographic 
 
 <h3>Dr. Juste Raimbault</h3>
 LASTIG, Gustave Eiffel University, Paris.
+
+<h3>Dr. Anna Zanchetta</h3>
+<!-- img class="bio-pic" src="../../img/bios/Anna.jpg"> -->
+The Alan Turing Institute, London, United Kingdom
+
+[Anna](https://www.turing.ac.uk/people/researchers/anna-zanchetta) is a Research Fellow based at the [Alan Turing Institute](https://www.turing.ac.uk/) in London, currently collaborating with [HOT](https://www.hotosm.org/) - the Humanitarian Openstreetmap Team, and [HeiGIT](https://heigit.org/) - Heidelberg Institute for Geoinformation Technology. She has been active in open source and geospatial for the last 15 years, acting mostly in academic roles where she investigates and promotes the use of open tools and mapping, to tackle social inequality and enhance environmental sustainability.
