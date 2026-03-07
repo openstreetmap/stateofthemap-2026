@@ -333,11 +333,15 @@ footer a:focus,
 .credits {
     color: white;
     position: absolute;
-    bottom: 35px;
-    right: 30px;
+    bottom: 5px;
+    right: 10px;
     font-size: 12px;
     filter: drop-shadow(0 0 1.1px black);
     text-align: right;
+}
+.intro .credits {
+    bottom: 35px;
+    right: 30px;
 }
 
 .credits a {
