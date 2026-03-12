@@ -66,11 +66,11 @@ Department of Computer Science, Maynooth University, Ireland
 
 [Peter](https://www.cs.nuim.ie/~pmooney/) is an Associate Professor at the Dept. of Computer Science in [Maynooth University](https://www.maynoothuniversity.ie/) and has been working in the domain of geospatial data research for almost two decades. He is particularly interested in understanding the processes behind the collection of VGI data and how computing techniques such as machine learning can be applied to these datasets and sources. He is heavily involved in [OSGeo](https://www.osgeo.org/) activities in Ireland. His teaching philosophy sees the exclusive use of FOSS4G (Free and Open Source Software for Geomatics) and Open Data for all student teaching and learning activities. He is currently an editor of the [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671) journal.
 
-<h3>Dr. Ana-Maria Olteanu-Raimond</h3>
+<h3>Dr. Ana-Maria Olteanu-Raimond</h3>
 <img class="bio-pic" src="../../img/bios/Ana-Maria.jpg">
 LASTIG, Gustave Eiffel University, Géodata Paris, and French National Mapping Agency (IGN)
 
-[Ana-Maria](https://www.umr-lastig.fr/members/Ana-Maria-Olteanu-Raimond/) is a Senior Researcher in the LASTIG laboratory (Laboratory on Geographic Information Science for Sustainable Development and Smart Cities) from Gustave Eiffel University, Géodata Paris, and French National Mapping Agency (IGN). Her current methodological research interests include heterogeneous spatial data integration, imperfect information fusion, collaborative mechanisms and quality assessment of volunteered geographic information, including OpenStreetMap for joint use with authoritative spatial data. Her thematic research are focused on Land Use Land Cover Mapping, sustainability mobility and tourism, cities evolutions. She is currently the deputy-director of the [LASTIG](https://www.umr-lastig.fr/), action-editor of [Geoinformatica](https://link.springer.com/journal/10707/editorial-board) journal, as well as the co-head of the GDR CNRS MAGIS French Research Action : [Volunteered geographic information and crowdsourcing](https://gdr-magis.cnrs.fr/actions-de-recherche/).
+[Ana-Maria](https://www.umr-lastig.fr/members/Ana-Maria-Olteanu-Raimond/) is a Senior Researcher in the LASTIG laboratory (Laboratory on Geographic Information Science for Sustainable Development and Smart Cities) from Gustave Eiffel University, Géodata Paris, and French National Mapping Agency (IGN). Her current methodological research interests include heterogeneous spatial data integration, imperfect information fusion, collaborative mechanisms and quality assessment of volunteered geographic information, including OpenStreetMap for joint use with authoritative spatial data. Her thematic research are focused on Land Use Land Cover Mapping, sustainability mobility and tourism, cities evolutions. She is currently the deputy-director of the [LASTIG](https://www.umr-lastig.fr/), action-editor of [Geoinformatica](https://link.springer.com/journal/10707/editorial-board) journal, as well as the co-head of the GDR CNRS MAGIS French Research Action : [Volunteered geographic information and crowdsourcing](https://gdr-magis.cnrs.fr/actions-de-recherche/).
 
 <h3>Dr. Julien Perret</h3>
 LASTIG, Gustave Eiffel University, Paris.
@@ -78,7 +78,10 @@ LASTIG, Gustave Eiffel University, Paris.
 Julien is a senior researcher at the LASTIG lab, a research group in Geographic Information sciences. His research interest include geohistorical data, spatial humanities and geospatial simulation.
 
 <h3>Dr. Juste Raimbault</h3>
+<img class="bio-pic" src="../../img/bios/Juste.jpg">
 LASTIG, Gustave Eiffel University, Paris.
+
+[Juste](https://www.umr-lastig.fr/members/Juste-Raimbault/) is a Permanent Research Fellow in Sustainable Development at Institut Géographique National, Géodata Paris, LaSTIG laboratory, and an Honorary Research Fellow at CASA, UCL. His research interests include the modelling and simulation of complex urban systems, land-use transport interactions, agent-based modelling, artificial life for urban systems, and bibliometrics. He also focuses on methodology, developing new methods for the validation of spatial simulation models such as spatial sensitivity analysis. He is a contributor to the [OpenMOLE](https://openmole.org/) platform for model exploration and validation. He is associate director of the [Cybergeo](https://journals.openedition.org/cybergeo/) journal, responsible for the GeOpenMod section.
 
 <h3>Dr. Anna Zanchetta</h3>
 <img class="bio-pic" src="../../img/bios/Anna.jpg">
