@@ -34,7 +34,7 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
-- **27 April 2026: Deadline OSM-Science talk submissions**
+- **11 May 2026: Deadline OSM-Science talk submissions**
 - 15 June 2026: Notification of acceptance / rejection
 - 29 June 2026: Program announcement
 - 1 August 2026: Camera ready copy for proceedings deadline
