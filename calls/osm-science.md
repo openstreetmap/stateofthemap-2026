@@ -18,7 +18,7 @@ The goal of OSM Science 2026 is to showcase the research and innovation of scien
 
 <h2 id="guidelines">Submission Guidelines</h2>
 
-Authors are invited to submit extended abstracts using the OSM Science 2026 [Pretalx submission system](https://pretalx.com/sotm2026-osm-science/cfp). Deadline for submission is **27 April 2026**.
+Authors are invited to submit extended abstracts using the OSM Science 2026 [Pretalx submission system](https://pretalx.com/sotm2026-osm-science/cfp). Deadline for submission is **11 May 2026**.
 
 Abstracts should be between 800 and 1200 words.
 
