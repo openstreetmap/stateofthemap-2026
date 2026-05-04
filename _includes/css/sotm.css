@@ -42,10 +42,23 @@ h2 {
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 20px;
+  font-weight: 800;
   color: {{ site.color.text }};
   text-decoration-thickness: 3px;
   text-decoration-skip-ink: none;
+}
+
+h4 {
+  font-size: 18px;
+  font-weight: 700;
+  color: {{ site.color.text }};
+}
+
+h5 {
+  font-size: 17px;
+  font-weight: 700;
+  color: {{ site.color.text }};
 }
 
 .prose h2 {
