@@ -20,8 +20,8 @@ This page will get updated once the ticket platform opens.
 ### Pre-ordering your State of the Map 2026 ticket for invitation letter or work purposes
 
 The early bird ticket prices are:
-* EUR 82 (70 GBP) for the community early bird ticket
-* EUR 255 (220 GBP) for the regular early bird ticket
+* EUR 80 (70 GBP) for the community early bird ticket
+* EUR 265 (230 GBP) for the regular early bird ticket
 
 #### On ticket prices
 
@@ -30,8 +30,8 @@ These early bird prices are discounted and valid before the ticket platform open
 
 #### Which ticket price to pay
 
-* **Regular early bird** - If you are attending the conference as a company representative, please pay the regular early bird ticket price, EUR 255.
-* If you are attending as a community member, please pay the **community early bird** price, EUR 82.
+* **Regular early bird** - If you are attending the conference as a company representative, please pay the regular early bird ticket price, EUR 265.
+* If you are attending as a community member, please pay the **community early bird** price, EUR 80.
 
 ##### Exceptions
 
@@ -47,8 +47,8 @@ In all of these cases, please see the section below "How to request your invitat
 
 1. Please visit the page [https://supporting.openstreetmap.org/donate/](https://supporting.openstreetmap.org/donate/)
 2. Select "Other amount" and type either,
-   * EUR 82 for one community early bird ticket. Then proceed to type your OSM username. Or,
-   * EUR 255 for one regular early bird ticket. Then select "I want to contribute on behalf of an organisation" and provide the requested information.
+   * EUR 80 for one community early bird ticket. Then proceed to type your OSM username. Or,
+   * EUR 265 for one regular early bird ticket. Then select "I want to contribute on behalf of an organisation" and provide the requested information.
 3. **Important: In the "message" field type: "SotM 2026 ticket pre-order for invitation letter purposes".**
 4. **Important: Select "List my name on the public donor list."** This will allow us to easily confirm your payment.
 5. Press "contribute".
