@@ -817,8 +817,8 @@ nav .navbar-brand {
 }
 .programme #toc ul li {
   display: inline-block;
-  background-color: #eee;
-  border: 1px solid #ccc;
+  background-color: {{ site.color.primary-light }};
+  border: 1.5px solid {{ site.color.primary-light }};
   border-radius: 5px;
   margin-right: 10px;
 }
@@ -1034,7 +1034,13 @@ table.scheduleTable thead th,
 table.scheduleTable tr td:first-child,
 table.scheduleTable tr td.scheduleBreak {
     vertical-align: top;
-    /*background-color: {{ site.color.primary-light }};*/
+    background-color: {{ site.color.primary-light }};
+}
+table.scheduleTable tr:first-child th:first-child {
+  border-start-start-radius: 4px;
+}
+table.scheduleTable tr:first-child th:last-child {
+  border-start-end-radius: 4px;
 }
 
 table.scheduleTable,
@@ -1048,7 +1054,8 @@ table.scheduleTable td.fill-darken0 {
 }
 table.scheduleTable td[rowspan],
 table.scheduleTable td.fill-darken0 {
-  border-bottom: 3px solid #d8d8d8;
+  border-top:    1px solid {{ site.color.primary-light }};
+  border-bottom: 1px solid {{ site.color.primary-light }};
 }
 
 table.scheduleTable span.speaker,
@@ -1072,6 +1079,10 @@ td.scheduleBreak {
     text-align: center;
 }
 
+table.scheduleTable td a {
+    text-decoration: none;
+}
+
 /* no recording icons in schedule */
 img.noRecordingBright,
 img.noRecordingDark {
@@ -1079,12 +1090,28 @@ img.noRecordingDark {
 }
 
 img.noRecordingBright {
-    margin-left: 10px;
+    margin-left: 0px;
 }
 
 img.noRecordingDark {
-    margin-right: 10px;
+    margin-right: 0px;
     margin-bottom: 0px;
+}
+
+table.scheduleTable .chip {
+  background-color: rgba(255, 255, 255, 0.35);
+  border-radius: 4px;
+  padding: 3px 4px 0 3px;
+}
+
+table.scheduleTable .chip.norecording {
+  background-color: rgba(255, 255, 255, 0.35);
+  border-radius: 4px;
+  padding: 4px 3px 4px 3px;
+  white-space: nowrap;
+}
+table.scheduleTable th .chip.norecording {
+  background-color: rgba(255, 255, 255, 0.15);
 }
 
 /* sessions */
