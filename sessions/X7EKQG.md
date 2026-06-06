@@ -4,10 +4,10 @@ title: "Reviewing OSM Changes Before Integration: Introducing LeBonTag"
 code: "X7EKQG"
 speaker_names: ['Bruno Béguin', 'Mathieu Ambrosy']
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
 length: "20"
-time: "Saturday, 17:20"
-time_iso: "2026-08-29T15:20:00Z"
+time: "Saturday, 09:30"
+time_iso: "2026-08-29T07:30:00Z"
 resources: []
 recording: True
 prerecorded: False

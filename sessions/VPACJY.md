@@ -4,10 +4,10 @@ title: "Adopt Your Town"
 code: "VPACJY"
 speaker_names: ['Giacomo Alessandroni']
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "Talks I / Opening - Amphi Caquot (Coriolis)"
 length: "20"
-time: "Saturday, 09:30"
-time_iso: "2026-08-29T07:30:00Z"
+time: "Saturday, 17:20"
+time_iso: "2026-08-29T15:20:00Z"
 resources: []
 recording: True
 prerecorded: False

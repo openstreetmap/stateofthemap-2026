@@ -6,8 +6,8 @@ speaker_names: ['Vincent Picavet']
 affiliations: None
 room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
 length: "20"
-time: "Sunday, 10:05"
-time_iso: "2026-08-30T08:05:00Z"
+time: "Saturday, 12:25"
+time_iso: "2026-08-29T10:25:00Z"
 resources: []
 recording: True
 prerecorded: False

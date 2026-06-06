@@ -4,10 +4,10 @@ title: "How Carto’Cité maintains OSM data for 436 train stations efficiently 
 code: "CXXRXD"
 speaker_names: ['Antoine Riche']
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Talks III - Amphi Cauchy (Carnot)"
 length: "20"
-time: "Sunday, 14:30"
-time_iso: "2026-08-30T12:30:00Z"
+time: "Friday, 16:45"
+time_iso: "2026-08-28T14:45:00Z"
 resources: []
 recording: True
 prerecorded: False

@@ -4,10 +4,10 @@ title: "Here be Rainbows: LGBTQ mapping in OSM"
 code: "MRSUBA"
 speaker_names: [&#34;Erica 'spughetti' Temp&#34;, 'Amanda McCann']
 affiliations: None
-room: "Talks III - Amphi Cauchy (Carnot)"
+room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
 length: "20"
-time: "Friday, 16:45"
-time_iso: "2026-08-28T14:45:00Z"
+time: "Sunday, 14:30"
+time_iso: "2026-08-30T12:30:00Z"
 resources: []
 recording: True
 prerecorded: False

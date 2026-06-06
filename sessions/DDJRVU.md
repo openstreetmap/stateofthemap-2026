@@ -6,8 +6,8 @@ speaker_names: ['Bastian Greshake Tzovaras']
 affiliations: None
 room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
 length: "20"
-time: "Friday, 16:45"
-time_iso: "2026-08-28T14:45:00Z"
+time: "Sunday, 10:05"
+time_iso: "2026-08-30T08:05:00Z"
 resources: [{ description: "Code repository", url: "https://codeberg.org/comaps/comaps" },{ description: "CoMaps website", url: "https://www.comaps.app/" }]
 recording: True
 prerecorded: False
