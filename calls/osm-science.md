@@ -37,7 +37,7 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 - **11 May 2026: Deadline OSM-Science talk submissions (CLOSED)**
 - 15 June 2026: Notification of acceptance / rejection
 - 29 June 2026: Program announcement
-- 1 August 2026: Camera ready copy for proceedings deadline
+- 26 July 2026: Camera ready copy for proceedings deadline (authors will be contacted directly - Zenodo will be used as the platform for the proceedings)
 - 28-30 August 2026: OSM Science at State of the Map 2026
 
 <h2 id="committee">Academic Track Co-chairs and Committee</h2>
