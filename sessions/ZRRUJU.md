@@ -2,9 +2,9 @@
 layout: session
 title: "Making maps with Ultra"
 code: "ZRRUJU"
-speaker_names: ['Daniel Schep']
+speaker_names: ["Daniel Schep"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "5"
 time: "Saturday, 17:35"
 time_iso: "2026-08-29T15:35:00Z"

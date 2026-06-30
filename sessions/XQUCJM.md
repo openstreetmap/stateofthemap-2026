@@ -2,9 +2,9 @@
 layout: session
 title: "OSM2World: 3D models from OpenStreetMap data"
 code: "XQUCJM"
-speaker_names: ['Tobias Knerr']
+speaker_names: ["Tobias Knerr"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Saturday, 11:50"
 time_iso: "2026-08-29T09:50:00Z"

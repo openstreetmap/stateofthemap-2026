@@ -2,9 +2,9 @@
 layout: session
 title: "Do maps have a future in OpenStreetMap?"
 code: "TLGDFF"
-speaker_names: ['Christoph Hormann']
+speaker_names: ["Christoph Hormann"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Friday, 15:40"
 time_iso: "2026-08-28T13:40:00Z"

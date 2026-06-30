@@ -2,9 +2,9 @@
 layout: session
 title: "Style-as-Code: Moving Beyond &#34;Off-the-Shelf&#34; to Unlock the Full Richness of OSM Data"
 code: "PKETRT"
-speaker_names: ['paul goullencourt']
+speaker_names: ["paul goullencourt"]
 affiliations: None
-room: "Talks III - Amphi Cauchy (Carnot)"
+room: "Martinique"
 length: "20"
 time: "Friday, 15:40"
 time_iso: "2026-08-28T13:40:00Z"

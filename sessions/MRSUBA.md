@@ -2,9 +2,9 @@
 layout: session
 title: "Here be Rainbows: LGBTQ mapping in OSM"
 code: "MRSUBA"
-speaker_names: [&#34;Erica 'spughetti' Temp&#34;, 'Amanda McCann']
+speaker_names: ["Erica 'spughetti' Temp", "Amanda McCann"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Sunday, 14:30"
 time_iso: "2026-08-30T12:30:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "Immersing Panoramax in the 3D world"
 code: "YEGCPU"
-speaker_names: ['Vincent Picavet']
+speaker_names: ["Vincent Picavet"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Saturday, 12:25"
 time_iso: "2026-08-29T10:25:00Z"

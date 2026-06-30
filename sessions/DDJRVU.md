@@ -2,9 +2,9 @@
 layout: session
 title: "CoMaps - How to make a community-based map &amp; navigation app based on OpenStreetMap"
 code: "DDJRVU"
-speaker_names: ['Bastian Greshake Tzovaras']
+speaker_names: ["Bastian Greshake Tzovaras"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Sunday, 10:05"
 time_iso: "2026-08-30T08:05:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "Mapping crises, communities and capitalism on OpenStreetMap (an update)"
 code: "F9UBMA"
-speaker_names: ['Anne Lee Steele']
+speaker_names: ["Anne Lee Steele"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Friday, 11:15"
 time_iso: "2026-08-28T09:15:00Z"

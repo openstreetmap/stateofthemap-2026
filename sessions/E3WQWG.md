@@ -2,9 +2,9 @@
 layout: session
 title: "A Swiss Army knife for geographical data voxelization"
 code: "E3WQWG"
-speaker_names: ['Pierre-Yves Rollo', 'Théo SZANTO']
+speaker_names: ["Pierre-Yves Rollo", "Théo SZANTO"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Saturday, 11:15"
 time_iso: "2026-08-29T09:15:00Z"

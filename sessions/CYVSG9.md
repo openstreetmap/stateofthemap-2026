@@ -2,9 +2,9 @@
 layout: session
 title: "OSMPID: A Persistent ID Specification and an Object Identity Service"
 code: "CYVSG9"
-speaker_names: ['Stefan Keller']
+speaker_names: ["Stefan Keller"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Friday, 15:40"
 time_iso: "2026-08-28T13:40:00Z"

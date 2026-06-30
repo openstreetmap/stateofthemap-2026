@@ -2,9 +2,9 @@
 layout: session
 title: "OSM for Cities: Breaking the data waste cycle"
 code: "YFBLXL"
-speaker_names: ['Vitor George']
+speaker_names: ["Vitor George"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "20"
 time: "Saturday, 10:05"
 time_iso: "2026-08-29T08:05:00Z"

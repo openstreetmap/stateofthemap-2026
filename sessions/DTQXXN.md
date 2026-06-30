@@ -2,9 +2,9 @@
 layout: session
 title: "How OpenStreetMap became the backbone of France's National Cycling Database"
 code: "DTQXXN"
-speaker_names: ['Samuel Deschamps-Berger']
+speaker_names: ["Samuel Deschamps-Berger"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "20"
 time: "Saturday, 16:45"
 time_iso: "2026-08-29T14:45:00Z"

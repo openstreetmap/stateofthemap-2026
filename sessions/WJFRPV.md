@@ -2,9 +2,9 @@
 layout: session
 title: "Announcing MapRoulette 4!"
 code: "WJFRPV"
-speaker_names: ['Martijn van Exel']
+speaker_names: ["Martijn van Exel"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Friday, 14:30"
 time_iso: "2026-08-28T12:30:00Z"

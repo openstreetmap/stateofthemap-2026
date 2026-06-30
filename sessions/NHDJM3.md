@@ -2,9 +2,9 @@
 layout: session
 title: "Search and find what you are looking for"
 code: "NHDJM3"
-speaker_names: ['Sarah Hoffmann']
+speaker_names: ["Sarah Hoffmann"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Saturday, 17:55"
 time_iso: "2026-08-29T15:55:00Z"

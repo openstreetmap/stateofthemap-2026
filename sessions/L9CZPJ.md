@@ -2,9 +2,9 @@
 layout: session
 title: "Putting Childcare on the Map: Supporting Parents in Nairobi Through OpenStreetMap"
 code: "L9CZPJ"
-speaker_names: ['Maurine Oyugi']
+speaker_names: ["Maurine Oyugi"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "20"
 time: "Saturday, 15:05"
 time_iso: "2026-08-29T13:05:00Z"

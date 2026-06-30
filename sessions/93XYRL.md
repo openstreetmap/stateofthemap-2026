@@ -2,9 +2,9 @@
 layout: session
 title: "Lost in hospital? OpenStreetMap to the rescue"
 code: "93XYRL"
-speaker_names: ['Daphné Lercier', 'Lonny Loquesol']
+speaker_names: ["Daphné Lercier", "Lonny Loquesol"]
 affiliations: None
-room: "Talks III - Amphi Cauchy (Carnot)"
+room: "Martinique"
 length: "20"
 time: "Friday, 14:30"
 time_iso: "2026-08-28T12:30:00Z"

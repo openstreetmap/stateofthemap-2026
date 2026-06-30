@@ -2,9 +2,9 @@
 layout: session
 title: "Structuring Road Information in Open Data: A Nested Wikidata – OSM – BD TOPO (IGN) Architecture Co-produced by Territorial Authorities"
 code: "VS9YKN"
-speaker_names: ['Jean-Louis ZIMMERMANN']
+speaker_names: ["Jean-Louis ZIMMERMANN"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Friday, 11:15"
 time_iso: "2026-08-28T09:15:00Z"

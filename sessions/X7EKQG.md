@@ -2,9 +2,9 @@
 layout: session
 title: "Reviewing OSM Changes Before Integration: Introducing LeBonTag"
 code: "X7EKQG"
-speaker_names: ['Bruno Béguin', 'Mathieu Ambrosy']
+speaker_names: ["Bruno Béguin", "Mathieu Ambrosy"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Saturday, 09:30"
 time_iso: "2026-08-29T07:30:00Z"

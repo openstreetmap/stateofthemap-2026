@@ -2,9 +2,9 @@
 layout: session
 title: "OSMF Board AMA"
 code: "LPJ9S7"
-speaker_names: ['Héctor Ochoa Ortiz', 'Laura Mugeha']
+speaker_names: ["Héctor Ochoa Ortiz", "Laura Mugeha"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "60"
 time: "Sunday, 14:30"
 time_iso: "2026-08-30T12:30:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "Handling Temporary Closures in OpenStreetMap"
 code: "RU3UY3"
-speaker_names: ['Matteo']
+speaker_names: ["Matteo"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Sunday, 12:35"
 time_iso: "2026-08-30T10:35:00Z"

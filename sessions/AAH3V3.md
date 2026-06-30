@@ -2,9 +2,9 @@
 layout: session
 title: "Purposeful Mapping: Shifting Chapter Culture for Sustainable Community Impact"
 code: "AAH3V3"
-speaker_names: ['Adeyemi Omolola Olaide']
+speaker_names: ["Adeyemi Omolola Olaide"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "20"
 time: "Saturday, 17:55"
 time_iso: "2026-08-29T15:55:00Z"

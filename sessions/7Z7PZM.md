@@ -2,9 +2,9 @@
 layout: session
 title: "Text with a purpose - building the image of the world for blind users through structured and complete POI data"
 code: "7Z7PZM"
-speaker_names: ['Pawel Masarczyk']
+speaker_names: ["Pawel Masarczyk"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "40"
 time: "Saturday, 16:45"
 time_iso: "2026-08-29T14:45:00Z"

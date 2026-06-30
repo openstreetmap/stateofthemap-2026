@@ -2,9 +2,9 @@
 layout: session
 title: "UN Mappers: Building Local Capacities and Communities to Support Peace with OpenStreetMap"
 code: "FJYCMJ"
-speaker_names: ['Laura Mugeha', 'Diego Gonzalez Ferreiro']
+speaker_names: ["Laura Mugeha", "Diego Gonzalez Ferreiro"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Sunday, 11:50"
 time_iso: "2026-08-30T09:50:00Z"

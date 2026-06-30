@@ -2,9 +2,9 @@
 layout: session
 title: "Carto'Mission: Bringing Participatory Mapping Off-Screen Through Cooperative Play"
 code: "H8JKNT"
-speaker_names: ['Coralie Le Bian']
+speaker_names: ["Coralie Le Bian"]
 affiliations: None
-room: "Workshops I - Amphi Navier or Picard (Carnot)"
+room: "Tahiti"
 length: "60"
 time: "Friday, 16:45"
 time_iso: "2026-08-28T14:45:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "Cartes.app is now international"
 code: "HVPZWK"
-speaker_names: ['Maël THOMAS-QUILLÉVÉRÉ']
+speaker_names: ["Maël THOMAS-QUILLÉVÉRÉ"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Friday, 17:20"
 time_iso: "2026-08-28T15:20:00Z"

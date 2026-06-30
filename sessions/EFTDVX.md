@@ -2,9 +2,9 @@
 layout: session
 title: "Upgrading the OSM Front Page"
 code: "EFTDVX"
-speaker_names: ['Frank Elsinga']
+speaker_names: ["Frank Elsinga"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Saturday, 15:05"
 time_iso: "2026-08-29T13:05:00Z"

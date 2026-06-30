@@ -2,9 +2,9 @@
 layout: session
 title: "Why do you contribute to OSM?"
 code: "GXXCFE"
-speaker_names: ['Michael Montani']
+speaker_names: ["Michael Montani"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "60"
 time: "Saturday, 14:30"
 time_iso: "2026-08-29T12:30:00Z"

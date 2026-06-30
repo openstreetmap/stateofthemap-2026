@@ -2,9 +2,9 @@
 layout: session
 title: "Closing"
 code: "RHY7NP"
-speaker_names: ['SotM Working Group']
+speaker_names: ["SotM Working Group"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Sunday, 17:05"
 time_iso: "2026-08-30T15:05:00Z"

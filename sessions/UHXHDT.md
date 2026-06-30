@@ -2,9 +2,9 @@
 layout: session
 title: "Perspectives on editors"
 code: "UHXHDT"
-speaker_names: ['Pieter Vander Vennet']
+speaker_names: ["Pieter Vander Vennet"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Friday, 11:50"
 time_iso: "2026-08-28T09:50:00Z"

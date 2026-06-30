@@ -2,9 +2,9 @@
 layout: session
 title: "OSM Mapping 101"
 code: "WHNUVN"
-speaker_names: ['Martin Raifer']
+speaker_names: ["Martin Raifer"]
 affiliations: None
-room: "Workshops I - Amphi Navier or Picard (Carnot)"
+room: "Tahiti"
 length: "60"
 time: "Friday, 11:15"
 time_iso: "2026-08-28T09:15:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "Opening"
 code: "SEDEA8"
-speaker_names: ['SotM Working Group']
+speaker_names: ["SotM Working Group"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Friday, 09:30"
 time_iso: "2026-08-28T07:30:00Z"

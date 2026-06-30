@@ -2,9 +2,9 @@
 layout: session
 title: "1000 ways to kill OpenStreetMap in Ghana and elsewhere in Africa"
 code: "RY8MQP"
-speaker_names: ['Enock Seth Nyamador']
+speaker_names: ["Enock Seth Nyamador"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Sunday, 15:05"
 time_iso: "2026-08-30T13:05:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "Centipede-RTK with RTKBase and Millipede: centimeter-level GNSS positioning"
 code: "KVZZWR"
-speaker_names: ['Pierre Beyssac']
+speaker_names: ["Pierre Beyssac"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "20"
 time: "Saturday, 11:15"
 time_iso: "2026-08-29T09:15:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "Creating maps for the outdoors community in France: successes and challenges"
 code: "QJJS3X"
-speaker_names: ['StC']
+speaker_names: ["StC"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Saturday, 10:05"
 time_iso: "2026-08-29T08:05:00Z"

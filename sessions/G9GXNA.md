@@ -2,9 +2,9 @@
 layout: session
 title: "Let's create your own JOSM paint style!"
 code: "G9GXNA"
-speaker_names: ['Patrik Brigant']
+speaker_names: ["Patrik Brigant"]
 affiliations: None
-room: "Workshops I - Amphi Navier or Picard (Carnot)"
+room: "Tahiti"
 length: "60"
 time: "Sunday, 14:30"
 time_iso: "2026-08-30T12:30:00Z"

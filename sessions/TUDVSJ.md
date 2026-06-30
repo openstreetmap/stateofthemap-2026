@@ -2,9 +2,9 @@
 layout: session
 title: "Let's create links between OSM and Wikipedia!"
 code: "TUDVSJ"
-speaker_names: ['Delphine Montagne']
+speaker_names: ["Delphine Montagne"]
 affiliations: None
-room: "Workshops I - Amphi Navier or Picard (Carnot)"
+room: "Tahiti"
 length: "60"
 time: "Saturday, 16:45"
 time_iso: "2026-08-29T14:45:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "Milan to Paris via Dundee: ohsome 2.0 has arrived!"
 code: "S9MD3B"
-speaker_names: ['Benjamin Herfort']
+speaker_names: ["Benjamin Herfort"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Sunday, 12:35"
 time_iso: "2026-08-30T10:35:00Z"

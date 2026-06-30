@@ -2,9 +2,9 @@
 layout: session
 title: "Update on attribution enforcement for users of OpenStreetMap servers"
 code: "8V7LYM"
-speaker_names: ['Mateusz Konieczny']
+speaker_names: ["Mateusz Konieczny"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Friday, 12:25"
 time_iso: "2026-08-28T10:25:00Z"

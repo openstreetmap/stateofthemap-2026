@@ -2,9 +2,9 @@
 layout: session
 title: "MapLibre - from data to rendering, in one status update"
 code: "MKKGG9"
-speaker_names: ['Frank Elsinga', 'Yuri Astrakhan']
+speaker_names: ["Frank Elsinga", "Yuri Astrakhan"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Friday, 17:55"
 time_iso: "2026-08-28T15:55:00Z"

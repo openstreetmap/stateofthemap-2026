@@ -2,12 +2,12 @@
 layout: session
 title: "State of Panoramax"
 code: "PCMPNK"
-speaker_names: ['Adrien Pavie', 'Christian Quest']
+speaker_names: ["Adrien Pavie", "Christian Quest"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "40"
-time: "Saturday, 09:30"
-time_iso: "2026-08-29T07:30:00Z"
+time: "Friday, 09:50"
+time_iso: "2026-08-28T07:50:00Z"
 resources: []
 recording: True
 prerecorded: False

@@ -2,9 +2,9 @@
 layout: session
 title: "Making a living on OSM by nurturing the commons : inside the French Federation of OSM professionals"
 code: "WGMV3T"
-speaker_names: ['Marina Petkova']
+speaker_names: ["Marina Petkova", "Florian Lainez"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "20"
 time: "Saturday, 12:25"
 time_iso: "2026-08-29T10:25:00Z"

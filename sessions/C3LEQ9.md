@@ -2,9 +2,9 @@
 layout: session
 title: "Making world spinning faster - How we sped up Valhalla graph creation in 3 times"
 code: "C3LEQ9"
-speaker_names: ['Stefan Kizim']
+speaker_names: ["Stefan Kizim"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Sunday, 11:50"
 time_iso: "2026-08-30T09:50:00Z"

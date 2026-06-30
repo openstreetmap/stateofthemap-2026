@@ -2,9 +2,9 @@
 layout: session
 title: "Emergency Services using OpenStreetMap in Germany"
 code: "3GRKKJ"
-speaker_names: ['dadavid']
+speaker_names: ["dadavid"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "40"
 time: "Friday, 14:30"
 time_iso: "2026-08-28T12:30:00Z"

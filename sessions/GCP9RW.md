@@ -2,9 +2,9 @@
 layout: session
 title: "Client-Side Transport Maps on OpenStreetMap.org"
 code: "GCP9RW"
-speaker_names: ['Andy Allan']
+speaker_names: ["Andy Allan"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Friday, 16:45"
 time_iso: "2026-08-28T14:45:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "GeoDesk: The OpenStreetMap toolkit that's fast, easy and fun"
 code: "EGFGRJ"
-speaker_names: ['Martin']
+speaker_names: ["Martin"]
 affiliations: None
-room: "Workshops I - Amphi Navier or Picard (Carnot)"
+room: "Tahiti"
 length: "20"
 time: "Sunday, 12:35"
 time_iso: "2026-08-30T10:35:00Z"

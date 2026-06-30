@@ -2,9 +2,9 @@
 layout: session
 title: "Sourdough and Layercake: removing technical barriers to using OSM data for cartography and analysis"
 code: "EMMH8Q"
-speaker_names: ['Jake Low']
+speaker_names: ["Jake Low"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Friday, 17:20"
 time_iso: "2026-08-28T15:20:00Z"

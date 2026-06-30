@@ -2,9 +2,9 @@
 layout: session
 title: "Introduction to OSM Analytics with ohsome"
 code: "EKTQAD"
-speaker_names: ['Michael Auer', 'Rafael Troilo']
+speaker_names: ["Michael Auer", "Rafael Troilo"]
 affiliations: None
-room: "Workshops I - Amphi Navier or Picard (Carnot)"
+room: "Tahiti"
 length: "60"
 time: "Saturday, 14:30"
 time_iso: "2026-08-29T12:30:00Z"

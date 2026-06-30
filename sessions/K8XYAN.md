@@ -2,9 +2,9 @@
 layout: session
 title: "Sneaking in OSM data into a big old company"
 code: "K8XYAN"
-speaker_names: ['Céline DURUPT', 'Tristram Gräbener']
+speaker_names: ["Céline DURUPT", "Tristram Gräbener"]
 affiliations: None
-room: "Talks III - Amphi Cauchy (Carnot)"
+room: "Martinique"
 length: "20"
 time: "Friday, 11:15"
 time_iso: "2026-08-28T09:15:00Z"

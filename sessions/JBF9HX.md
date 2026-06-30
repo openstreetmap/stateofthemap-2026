@@ -2,9 +2,9 @@
 layout: session
 title: "Panoramax Netherlands"
 code: "JBF9HX"
-speaker_names: ['Bas Bussink']
+speaker_names: ["Bas Bussink"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2026-08-30T07:30:00Z"

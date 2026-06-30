@@ -2,9 +2,9 @@
 layout: session
 title: "Future of the OpenStreetMap Foundation"
 code: "EPRSWT"
-speaker_names: ['Roland Olbricht']
+speaker_names: ["Roland Olbricht"]
 affiliations: None
-room: "Workshops I - Amphi Navier or Picard (Carnot)"
+room: "Tahiti"
 length: "60"
 time: "Sunday, 09:30"
 time_iso: "2026-08-30T07:30:00Z"

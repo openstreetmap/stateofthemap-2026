@@ -2,12 +2,12 @@
 layout: session
 title: "The Republic of Maps : Together, let's unlock the power of maps to build democracy"
 code: "CWT8FR"
-speaker_names: ['Matthieu Chatry']
+speaker_names: ["Matthieu Chatry"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "30"
-time: "Friday, 09:50"
-time_iso: "2026-08-28T07:50:00Z"
+time: "Saturday, 09:30"
+time_iso: "2026-08-29T07:30:00Z"
 resources: []
 recording: True
 prerecorded: False

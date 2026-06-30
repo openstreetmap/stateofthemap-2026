@@ -2,9 +2,9 @@
 layout: session
 title: "The democratic stakes of mapmaking: a cross-community panel"
 code: "SMGDU7"
-speaker_names: ['Matthieu Chatry']
+speaker_names: ["Matthieu Chatry"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "60"
 time: "Friday, 11:50"
 time_iso: "2026-08-28T09:50:00Z"

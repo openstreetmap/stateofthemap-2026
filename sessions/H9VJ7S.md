@@ -2,9 +2,9 @@
 layout: session
 title: "National Mapping and Cadastral agencies (NMCAs) and their relationship with OSM: the example of the German BKG"
 code: "H9VJ7S"
-speaker_names: ['Konstantin Krömer']
+speaker_names: ["Konstantin Krömer", "Peregrina Blumhoff"]
 affiliations: None
-room: "Talks III - Amphi Cauchy (Carnot)"
+room: "Martinique"
 length: "20"
 time: "Friday, 17:55"
 time_iso: "2026-08-28T15:55:00Z"

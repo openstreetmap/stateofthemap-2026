@@ -2,9 +2,9 @@
 layout: session
 title: "Running OpenStreetMap.org in the Age of AI"
 code: "7ED7WQ"
-speaker_names: ['Grant Slater']
+speaker_names: ["Grant Slater"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Saturday, 15:40"
 time_iso: "2026-08-29T13:40:00Z"

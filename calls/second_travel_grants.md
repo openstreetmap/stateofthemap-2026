@@ -7,7 +7,7 @@ headings: "for-applicants,online,criteria,payment,apply"
 
 The State of the Map Organizing Committee provides a second part of the Travel Grant Programme (TGP) to facilitate accessibility at the global SotM 2026 Conference, which will happen in Paris, France, August 28-30.  
 
-The call for applications to the Travel Grant Programme will be open until **June 21st**, 12:00 UTC.
+The call for applications to the Travel Grant Programme will be open until **June 30th**, 12:00 UTC.
 
 **It is fundamental to read all the information on this page before submitting an application**.
 
@@ -92,7 +92,7 @@ If you wish to be considered for a SotM travel grant please fill out the <a href
 
 All data will be held confidential and only used for assessing TGP applications. Please ensure that the email address that you provide is regularly monitored, as the selection committee may wish to seek clarification of responses. If no replies have been provided to requests via mail for the Travel Grant Committee within 5 days, the Travel Grant will be removed from you and assigned to the next applicants in the ranking.
 
-Applications must be received by the **June 21st** at 12:00 UTC.
+Applications must be received by the **June 30th** at 12:00 UTC.
 
 The selection committee will aim to notify recipients of grants by the 5th of July.
 

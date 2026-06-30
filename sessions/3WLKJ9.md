@@ -2,9 +2,9 @@
 layout: session
 title: "Transitous - Free and Open Public transport routing"
 code: "3WLKJ9"
-speaker_names: ['Volker Krause']
+speaker_names: ["Volker Krause"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Saturday, 11:50"
 time_iso: "2026-08-29T09:50:00Z"

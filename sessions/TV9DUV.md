@@ -2,9 +2,9 @@
 layout: session
 title: "OpenStreetMap on Board: How We Fit Europe into 700 High-Speed Trains"
 code: "TV9DUV"
-speaker_names: ['Benjamin Demonet']
+speaker_names: ["Benjamin Demonet"]
 affiliations: None
-room: "Talks III - Amphi Cauchy (Carnot)"
+room: "Martinique"
 length: "20"
 time: "Friday, 12:25"
 time_iso: "2026-08-28T10:25:00Z"

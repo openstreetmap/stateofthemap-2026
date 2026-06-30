@@ -2,9 +2,9 @@
 layout: session
 title: "Wonders of OSM"
 code: "VUTQVY"
-speaker_names: ['CapitaineMoustache']
+speaker_names: ["CapitaineMoustache"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Sunday, 15:40"
 time_iso: "2026-08-30T13:40:00Z"

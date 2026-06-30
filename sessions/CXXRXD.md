@@ -2,9 +2,9 @@
 layout: session
 title: "How Carto’Cité maintains OSM data for 436 train stations efficiently using PostGIS and QGIS"
 code: "CXXRXD"
-speaker_names: ['Antoine Riche']
+speaker_names: ["Antoine Riche"]
 affiliations: None
-room: "Talks III - Amphi Cauchy (Carnot)"
+room: "Martinique"
 length: "20"
 time: "Friday, 16:45"
 time_iso: "2026-08-28T14:45:00Z"

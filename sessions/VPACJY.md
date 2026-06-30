@@ -2,9 +2,9 @@
 layout: session
 title: "Adopt Your Town"
 code: "VPACJY"
-speaker_names: ['Giacomo Alessandroni']
+speaker_names: ["Giacomo Alessandroni"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Saturday, 17:20"
 time_iso: "2026-08-29T15:20:00Z"

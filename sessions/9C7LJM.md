@@ -2,9 +2,9 @@
 layout: session
 title: "A new stack for OpenStreetMap vector tiles"
 code: "9C7LJM"
-speaker_names: ['Matt White']
+speaker_names: ["Matt White"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "5"
 time: "Saturday, 17:25"
 time_iso: "2026-08-29T15:25:00Z"

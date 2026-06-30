@@ -2,9 +2,9 @@
 layout: session
 title: "Mapterhorn Terrain and Imagery"
 code: "UQF7NY"
-speaker_names: ['Oliver Wipfli']
+speaker_names: ["Oliver Wipfli"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Friday, 16:45"
 time_iso: "2026-08-28T14:45:00Z"

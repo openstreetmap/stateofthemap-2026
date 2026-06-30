@@ -2,9 +2,9 @@
 layout: session
 title: "The Power of quality in OpenStreetMap"
 code: "BY7FZ7"
-speaker_names: ['François Lacombe', 'Marina Petkova', 'Tobias Augspurger']
+speaker_names: ["François Lacombe", "Marina Petkova", "Tobias Augspurger"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Saturday, 17:55"
 time_iso: "2026-08-29T15:55:00Z"

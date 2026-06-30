@@ -2,9 +2,9 @@
 layout: session
 title: "Where are my ways?"
 code: "NRPPPV"
-speaker_names: ['Michael Reichert']
+speaker_names: ["Michael Reichert"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2026-08-30T07:30:00Z"

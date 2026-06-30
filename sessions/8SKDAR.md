@@ -2,9 +2,9 @@
 layout: session
 title: "OSM Skeleton: Completing the Backbone of OSM Data"
 code: "8SKDAR"
-speaker_names: ['Séverin Ménard']
+speaker_names: ["Séverin Ménard"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "20"
 time: "Saturday, 09:30"
 time_iso: "2026-08-29T07:30:00Z"

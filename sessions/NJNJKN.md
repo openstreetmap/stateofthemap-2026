@@ -2,7 +2,7 @@
 layout: session
 title: "StreetComplete walk"
 code: "NJNJKN"
-speaker_names: ['Mateusz Konieczny']
+speaker_names: ["Mateusz Konieczny"]
 affiliations: None
 room: "Outdoor Workshops"
 length: "60"

@@ -2,9 +2,9 @@
 layout: session
 title: "From OpenStreetMap APIs to Insightful Data Analysis: Extraction, Analysis, and Mapping with R"
 code: "83LBSJ"
-speaker_names: ['Louis Laurian']
+speaker_names: ["Louis Laurian"]
 affiliations: None
-room: "Talks II - Amphi Bienvenüe (Bienvenüe)"
+room: "La Réunion"
 length: "20"
 time: "Friday, 15:05"
 time_iso: "2026-08-28T13:05:00Z"

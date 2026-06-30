@@ -2,9 +2,9 @@
 layout: session
 title: "UseOSM: Promoting OpenStreetMap Data Usage and Impact Through an Open and Accessible Web Platform"
 code: "GSZW7S"
-speaker_names: ['Victor Ademoyero', 'Emmanuel Jolaiya']
+speaker_names: ["Victor Ademoyero", "Emmanuel Jolaiya"]
 affiliations: None
-room: "Talks IV/Workshops II/BoF III - Amphi Picard or Navier (Carnot)"
+room: "Corse"
 length: "5"
 time: "Saturday, 17:30"
 time_iso: "2026-08-29T15:30:00Z"

@@ -2,9 +2,9 @@
 layout: session
 title: "OSRM is Back: Revitalizing the OSM-Native Routing Engine"
 code: "ZR8RTX"
-speaker_names: ['Dennis Luxen']
+speaker_names: ["Dennis Luxen"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Saturday, 12:25"
 time_iso: "2026-08-29T10:25:00Z"

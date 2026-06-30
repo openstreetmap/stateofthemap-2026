@@ -2,9 +2,9 @@
 layout: session
 title: "Moving around with OpenStreetMap"
 code: "WXZR7C"
-speaker_names: ['Julien Coupey']
+speaker_names: ["Julien Coupey"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Sunday, 11:15"
 time_iso: "2026-08-30T09:15:00Z"

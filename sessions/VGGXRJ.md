@@ -2,9 +2,9 @@
 layout: session
 title: "Clearance: Quality Proxy for OSM Replication. The Roadmap up to v1.0"
 code: "VGGXRJ"
-speaker_names: ['Frédéric Rodrigo']
+speaker_names: ["Frédéric Rodrigo"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Saturday, 16:45"
 time_iso: "2026-08-29T14:45:00Z"

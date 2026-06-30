@@ -2,9 +2,9 @@
 layout: session
 title: "Awesome JOSM: tips that beat every Desktop GIS and AI"
 code: "JUPZXH"
-speaker_names: ['Enock Seth Nyamador']
+speaker_names: ["Enock Seth Nyamador"]
 affiliations: None
-room: "Workshops I - Amphi Navier or Picard (Carnot)"
+room: "Tahiti"
 length: "60"
 time: "Saturday, 09:30"
 time_iso: "2026-08-29T07:30:00Z"

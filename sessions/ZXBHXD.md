@@ -2,9 +2,9 @@
 layout: session
 title: "Construction ahead"
 code: "ZXBHXD"
-speaker_names: ['Minh Nguyễn', 'Pablo Brasero']
+speaker_names: ["Minh Nguyễn", "Ruben Lopez Mendoza", "Pablo Brasero"]
 affiliations: None
-room: "Talks I / Opening - Amphi Caquot (Coriolis)"
+room: "Guadeloupe"
 length: "20"
 time: "Saturday, 14:30"
 time_iso: "2026-08-29T12:30:00Z"

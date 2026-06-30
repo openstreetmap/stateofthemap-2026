@@ -2,9 +2,9 @@
 layout: session
 title: "Experience centimeter accuracy surveying with the open network Centipede-RTK"
 code: "NPZRV9"
-speaker_names: ['Stéphane Péneau']
+speaker_names: ["Stéphane Péneau"]
 affiliations: None
-room: "Workshops I - Amphi Navier or Picard (Carnot)"
+room: "Tahiti"
 length: "60"
 time: "Sunday, 11:15"
 time_iso: "2026-08-30T09:15:00Z"
