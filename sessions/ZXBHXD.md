@@ -2,7 +2,7 @@
 layout: session
 title: "Construction ahead"
 code: "ZXBHXD"
-speaker_names: ["Minh Nguyễn", "Pablo Brasero"]
+speaker_names: ["Minh Nguyễn", "Ruben Lopez Mendoza", "Pablo Brasero"]
 affiliations: None
 room: "Guadeloupe"
 length: "20"

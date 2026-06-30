@@ -1175,7 +1175,8 @@
       "abstract": "Pardon our dust as OpenStreetMap’s core software projects undergo some renovations! Now a year into the core software roadmap that we debuted in Manila and Dundee, we’ll review some highlights from the past year in the openstreetmap-website project (the Web frontend and API), followed by a preview of things to come in the next several months. We’ll go beyond our monthly summaries on the forum to offer a look into the day-to-day experience of contributing to these projects and how it has improved over the past year.",
       "speakers": [
         "TNB9QM",
-        "MKJXUC"
+        "MKJXUC",
+        "W7JADM"
       ],
       "track": 6914,
       "start": "2026-08-29T14:30:00+02:00",
@@ -2140,7 +2141,7 @@
     },
     {
       "code": "PAF7YC",
-      "id": 1526856,
+      "id": 1526966,
       "title": "OSM Science 2026: Introduction",
       "abstract": "This talk will introduce the OSM Science/SotM Academic Track concept, review its history and past editions and will discuss the current state of OSM Science as reflected in the talk included within this track",
       "speakers": [
@@ -2151,12 +2152,12 @@
       "end": "2026-08-29T10:05:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:35:50.487751+00:00",
+      "updated": "2026-06-25T09:19:26.611470+00:00",
       "content_locale": "en"
     },
     {
       "code": "X89Y8Y",
-      "id": 1517891,
+      "id": 1526967,
       "title": "Mapping Informal Settlements with OpenStreetMap Data: Integrating Urban Morphology and Topology for Slum Detection",
       "abstract": "This study presents a reproducible methodology for detecting informal settlements using OpenStreetMap building footprint data. By integrating urban morphology and topology within a Python-based workflow and leveraging OSMnx for data extraction, the approach enables fine-scale spatial analysis in data-scarce environments. The method is tested across three case studies in the Global South, demonstrating how OpenStreetMap can support urban research, comparative analysis, and data-driven insights into informal settlements relevant to SDG 11.",
       "speakers": [
@@ -2167,12 +2168,12 @@
       "end": "2026-08-29T10:10:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:33:11.639890+00:00",
+      "updated": "2026-06-25T09:19:26.611474+00:00",
       "content_locale": "en"
     },
     {
       "code": "KFDLAR",
-      "id": 1517892,
+      "id": 1526968,
       "title": "MyGreenSpace : Relying on Open Data to Characterize the Health Potential of Urban Green Spaces",
       "abstract": "The presentation aims to demonstrate how the collaborative and open data routinely collected in OSM can serve as a basis for calculating indicators designed to assess the potential of a green space to promote the health of city dwellers, across its various dimensions (physical, social, mental and environmental health).",
       "speakers": [
@@ -2183,12 +2184,12 @@
       "end": "2026-08-29T10:15:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:33:23.242818+00:00",
+      "updated": "2026-06-25T09:19:26.611479+00:00",
       "content_locale": "en"
     },
     {
       "code": "CTNPQJ",
-      "id": 1517890,
+      "id": 1526969,
       "title": "Indoor Mapping Potential in OpenStreetMap: Estimating the Amount of Publicly Accessible Indoor Spaces Across European Cities",
       "abstract": "With this study, we aim to quantify the amount of publicly accessible (i.e. mappable) indoor spaces in European cities.",
       "speakers": [
@@ -2200,12 +2201,12 @@
       "end": "2026-08-29T10:20:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:33:31.379362+00:00",
+      "updated": "2026-06-25T09:19:26.611483+00:00",
       "content_locale": "en"
     },
     {
       "code": "TDMGNZ",
-      "id": 1518111,
+      "id": 1526970,
       "title": "Towards an OpenStreetMap-based open database of transversal torrent control structures in the Alpine arc",
       "abstract": "This work examines OpenStreetMap as an open interoperability layer for Alpine torrent control structures (e.g., check dams, bed sills), aligning the waterway=check_dam tagging schema with published hydro-geomorphic risk indices (e.g., PFI, MPi, SCR). A snapshot across European countries reveals very low schema adoption and attribute completeness; a conflation pilot against the regional database of the Friuli-Venezia Giulia Region (Northeastern Italy) establishes the first OSM-to-cadastre benchmark in this domain.",
       "speakers": [
@@ -2216,12 +2217,12 @@
       "end": "2026-08-29T10:25:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:33:43.318055+00:00",
+      "updated": "2026-06-25T09:19:26.611487+00:00",
       "content_locale": "en"
     },
     {
       "code": "EUWM8V",
-      "id": 1523820,
+      "id": 1526971,
       "title": "Mapping the City in the Rhythm of Colours and Sounds: OpenStreetMap as a Basis for Multisensory Civic Cartography",
       "abstract": "This paper presents City in the Rhythm of Colours and Sounds, a project combining OpenStreetMap, soundscape studies and Colouring Cities-inspired building data. Using selected Polish towns as case studies, it links OSM-based spatial layers with field soundwalks and participatory observation. It shows how open mapping can support multisensory civic cartography, urban education and social engagement. The project highlights OpenStreetMap as both a technical geodatabase and a community platform for understanding everyday urban experience.",
       "speakers": [
@@ -2232,11 +2233,11 @@
       "end": "2026-08-29T10:30:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:33:53.376820+00:00",
+      "updated": "2026-06-25T09:19:26.611491+00:00",
       "content_locale": "en"
     },
     {
-      "id": 1497302,
+      "id": 1526972,
       "title": {
         "en": "Morning Break"
       },
@@ -2247,7 +2248,7 @@
     },
     {
       "code": "V9ASNX",
-      "id": 1518117,
+      "id": 1526973,
       "title": "CartAGen, an innovative tool to generalise OSM data",
       "abstract": "CartAGen is an open source Python library that highly facilitates the use of map generalisation algorithms. This new tool could change how basemap producers that rely on OSM data design their maps.",
       "speakers": [
@@ -2259,12 +2260,12 @@
       "end": "2026-08-29T11:50:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:34:40.730328+00:00",
+      "updated": "2026-06-25T09:19:26.611500+00:00",
       "content_locale": "en"
     },
     {
       "code": "KUEYVB",
-      "id": 1517994,
+      "id": 1526974,
       "title": "Reconstructing A High-detailed Lane-Level Road Network Model from OpenStreetMap: A Connectivity-Driven Approach",
       "abstract": "OpenStreetMap centerlines carry enough topological, geometric and semantic information to reconstruct lane-level road networks — if interpreted correctly. This study proposes treating OSM centerlines as structural representations of dominant traffic flow rather than geometric midlines, and reconstructs detailed lane networks and 2D areal road geometries through a hierarchical, connectivity-driven process guided by topology, geometry, and OSM tag semantics. Applied to Delft, the Netherlands, the framework produces a complete, functionally typed lane-level network and seamless areal road representations covering diverse urban road configurations, validated against satellite imagery.",
       "speakers": [
@@ -2275,12 +2276,12 @@
       "end": "2026-08-29T12:25:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:34:52.160916+00:00",
+      "updated": "2026-06-25T09:19:26.611504+00:00",
       "content_locale": "en"
     },
     {
       "code": "HYKXYK",
-      "id": 1518123,
+      "id": 1526975,
       "title": "Towards a Real-Time Monitoring System for the Road Network Based on OpenStreetMap and Remote Sensing Data: OSM Road Monitor",
       "abstract": "We present OSM Road Monitor, an approach towards a near-real-time system that cross-validates OpenStreetMap road updates against remote sensing imagery to detect and assess changes in the road network. We discuss three categories of computer vision approaches for road change detection and demonstrate a proof of concept on a selected set of orthophotos, where we showcase that a SpaceNet5-winning segmentation ensemble can successfully identify newly constructed and demolished road segments.",
       "speakers": [
@@ -2291,11 +2292,11 @@
       "end": "2026-08-29T13:00:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:35:06.540289+00:00",
+      "updated": "2026-06-25T09:19:26.611509+00:00",
       "content_locale": "en"
     },
     {
-      "id": 1497304,
+      "id": 1526976,
       "title": {
         "en": "Lunch Break"
       },
@@ -2306,7 +2307,7 @@
     },
     {
       "code": "VQFXXL",
-      "id": 1518122,
+      "id": 1526977,
       "title": "Mapping and using OpenStreetMap to Improve Geographic Access to Healthcare in Rural Madagascar",
       "abstract": "This talk presents how large-scale mapping in _OpenStreetMap_ enabled the creation of high-resolution tools to measure and reduce geographic barriers to healthcare in rural Madagascar, from optimizing community health worker deployment to planning door-to-door interventions. Building on a district-level pilot, we scaled this approach across multiple regions and estimated the resources required for nationwide mapping, highlighting how OSM can serve as a foundation for data-driven health system planning and improved access to care.",
       "speakers": [
@@ -2317,12 +2318,12 @@
       "end": "2026-08-29T15:05:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:35:28.141375+00:00",
+      "updated": "2026-06-25T09:19:26.611517+00:00",
       "content_locale": "en"
     },
     {
       "code": "ULSP3M",
-      "id": 1518119,
+      "id": 1526978,
       "title": "Fitness-for-Purpose of OpenStreetMap Road Networks for Drive-Mode Healthcare Accessibility in Kathmandu District, Nepal",
       "abstract": "Getting to a hospital on time in Kathmandu is less about distance and more about what the roads are actually like. This study will test whether OpenStreetMap's road network is accurate enough to model real drive-time healthcare access in Kathmandu District -using ride-sharing platforms like Pathao and InDrive as the transport mode and actual GPS-tracked trips to validate the results. The goal is to determine whether OSM data meets the standard Nepal's Ministry of Health needs for district-level planning.",
       "speakers": [
@@ -2334,12 +2335,12 @@
       "end": "2026-08-29T15:40:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:35:43.617801+00:00",
+      "updated": "2026-06-25T09:19:26.611521+00:00",
       "content_locale": "en"
     },
     {
       "code": "AQVAYA",
-      "id": 1517893,
+      "id": 1526979,
       "title": "OpenStreetMap for Intelligent Speed-Limit Assistance (ISA): The YouSpeed.de Study",
       "abstract": "YouSpeed.de investigates how OpenStreetMap speed-limit tags, area context, and daily diffs can be transformed into an offline smartphone runtime for intelligent speed assistance (ISA). The contribution is a reproducible deployment study showing that a single-file spatial SQLite bundle gives the best measured latency/update trade-off, while route-level replay shows that richer topology is not automatically better under mobile constraints.",
       "speakers": [
@@ -2350,12 +2351,12 @@
       "end": "2026-08-29T15:45:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:36:21.963856+00:00",
+      "updated": "2026-06-25T09:19:26.611526+00:00",
       "content_locale": "en"
     },
     {
       "code": "EYA7UN",
-      "id": 1517894,
+      "id": 1526980,
       "title": "OpenStreetMap for Travel Demand Modeling: An Open Approach to Derive Attractiveness for Destination Choice Models",
       "abstract": "OpenStreetMap data are used in travel demand modelling not only to derive transport networks, but increasingly also to quantify the attractiveness of traffic analysis zones in destination choice modeling. Our paper presents this domain-specific use case and examines which processing steps are particularly suitable for deriving robust attractiveness measures from OSM data. We describe the processing workflow and discuss the usability for modelling purposes. The developed workflow has been implemented in code and is published on GitHub to support transparent and reproducible use.",
       "speakers": [
@@ -2367,29 +2368,28 @@
       "end": "2026-08-29T15:50:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:36:30.577676+00:00",
+      "updated": "2026-06-25T09:19:26.611530+00:00",
       "content_locale": "en"
     },
     {
-      "code": "EL3XUW",
-      "id": 1517889,
-      "title": "From centroid to entrance: a global assessment of POI access locations for accessibility",
-      "abstract": "Transport models routinely anchor points of interest (POIs) at the centroid of their building or parcel. On large multi-building sites, this can misrepresent pedestrian access, distorting first-/last-mile transit access, wheelchair routing, and curbside drop-off precision. We quantify how explicit `entrance=*` detail in OSM shifts accessibility-style metrics relative to centroid proxies. The study uses a global, population/built-volume-weighted random sample to compare centroids against the nearest main entrance. We release the full toolchain that persists measurements between POI / entrance / centroid anchors and the nearest road network and transit stop.",
+      "code": "LA3WRV",
+      "id": 1526993,
+      "title": "Public transport stop analysis for OSM and Welzl's algorithm on the sphere",
+      "abstract": "An introduction to the public transport stop analysis (PTSA) project for visualizing public transport mapping habits around the world and a closer look at how to efficiently and accurately measure lots of distances between neighboring OSM objects.",
       "speakers": [
-        "LTTXCQ",
-        "98TMMP"
+        "VG7DWX"
       ],
       "track": null,
       "start": "2026-08-29T15:50:00+02:00",
       "end": "2026-08-29T15:55:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:36:39.484046+00:00",
+      "updated": "2026-06-30T11:19:15.555773+00:00",
       "content_locale": "en"
     },
     {
       "code": "FPWSB8",
-      "id": 1517888,
+      "id": 1526982,
       "title": "Assessing the Intrinsic Data Quality of OpenStreetMap for National-Scale Cycling Network Analysis",
       "abstract": "This paper presents a scalable, relation-aware framework for national-scale cycling network analysis by combining the ohsome platform and DuckDB to process the complete Dutch cycling network from OpenStreetMap. It enables efficient, reproducible evaluation of intrinsic data quality and infrastructure characteristics across hierarchical route relations, supporting consistent assessment of cycling network completeness, connectivity at national scale.",
       "speakers": [
@@ -2400,12 +2400,12 @@
       "end": "2026-08-29T16:00:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:36:49.833503+00:00",
+      "updated": "2026-06-25T09:19:26.611538+00:00",
       "content_locale": "en"
     },
     {
       "code": "CAPXCT",
-      "id": 1518114,
+      "id": 1526983,
       "title": "OpenStreetMap Data for Spatial Regression Modeling of Urban Operating Speed",
       "abstract": "This study evaluates how well OpenStreetMap (OSM) data can explain urban operating speeds using spatial regression models in Curitiba, Brazil, combining naturalistic driving data with socioeconomic and built-environment variables. The results show that OSM-derived variables, especially road network density and traffic signals, are useful for identifying spatial patterns in speed, but their limited detail reduces predictive accuracy, making OSM more suitable for exploratory large-scale safety analyses than precise modeling.",
       "speakers": [
@@ -2416,11 +2416,11 @@
       "end": "2026-08-29T16:05:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:37:07.518749+00:00",
+      "updated": "2026-06-25T09:19:26.611543+00:00",
       "content_locale": "en"
     },
     {
-      "id": 1497305,
+      "id": 1526984,
       "title": {
         "en": "Afternoon Break"
       },
@@ -2431,7 +2431,7 @@
     },
     {
       "code": "FLYV3H",
-      "id": 1518124,
+      "id": 1526985,
       "title": "Whose Knowledge Counts? Analysing Diversity and Exclusion in OpenStreetMap's Tagging Proposals Process",
       "abstract": "We analyse how gender inequality shapes OpenStreetMap's (OSM) tagging proposal process, revealing that diversity gaps intensify at higher participation levels. Maps are never neutral -their makers' demographics determine whose realities are represented or silenced. Systematically analysing every tagging proposals and votes since its creation using a purpose-built R package, we found that 59 prolific, mostly European male users dominate proposal approval, while feminised proposals are underrepresented and disproportionately opposed. These findings confirm that structural inequities persist, regardless of how well-designed and well-intended technologies may be. We propose governance reforms to improve OSM's inclusivity.",
       "speakers": [
@@ -2442,12 +2442,12 @@
       "end": "2026-08-29T17:20:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:37:40.198888+00:00",
+      "updated": "2026-06-25T09:19:26.611551+00:00",
       "content_locale": "en"
     },
     {
       "code": "MWCJFD",
-      "id": 1518116,
+      "id": 1526986,
       "title": "Consumed at Scale: AI-Driven Extraction and the Political Economy of OpenStreetMap",
       "abstract": "Large-scale scraping attacks on OpenStreetMap's infrastructure have exposed a fundamental tension between open geodata as a community-maintained commons and its role in current commercial AI development dynamics. This presentation examines the implications of AI-driven data extraction for OSM’s infrastructure and licence compliance guidelines as well as its consequences for OSM’s position within the geospatial data ecosystem.",
       "speakers": [
@@ -2458,12 +2458,12 @@
       "end": "2026-08-29T17:55:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:37:53.082632+00:00",
+      "updated": "2026-06-25T09:19:26.611555+00:00",
       "content_locale": "en"
     },
     {
       "code": "XHEEYA",
-      "id": 1518121,
+      "id": 1526987,
       "title": "Inter-Faceing the Critique – A Socio-technical Perspective on Humanitarian Mapping with the HOT TM",
       "abstract": "This paper revisits humanitarian mapping in OpenStreetMap from a critical socio-technical perspective. Since the 2010s, initiatives like the Humanitarian OpenStreetMap Team (HOT) have mobilized global volunteers for crisis mapping, while raising concerns about epistemic inequalities and the marginalization of local knowledge. Focusing on the HOT Tasking Manager, the study examines how participation is structured through platform design, enabling collaboration but also embedding standardization and governance logics. Drawing on data ethnography and infrastructure studies, it reassesses earlier critiques and their metabolization. The paper argues that humanitarian mapping today oscillates between empowerment and technocratic rationality amid ongoing data inequalities.",
       "speakers": [
@@ -2474,12 +2474,12 @@
       "end": "2026-08-29T18:30:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:38:06.308501+00:00",
+      "updated": "2026-06-25T09:19:26.611559+00:00",
       "content_locale": "en"
     },
     {
       "code": "JC87RR",
-      "id": 1518251,
+      "id": 1526988,
       "title": "Corporate Editing and Collective Intelligence in OpenStreetMap: A Long-Term Analysis of Southeast Asian Case Studies",
       "abstract": "This abstract examines how corporate editing affects OpenStreetMap’s collective intelligence. Using OSM data from 2015–2025 for several countries in Southeast Asia, it operationalizes collective intelligence through measures of completeness, semantic richness, geometric complexity, diversity, innovation, and evenness, combined into a composite score. Descriptive country-level analysis and local-projection models for Thailand and Malaysia show that corporate editing has real but bounded effects: it often improves innovation and completeness, but some waves reduce decentralization. Effects fade within about two years, suggesting OSM’s resilience.",
       "speakers": [
@@ -2490,12 +2490,12 @@
       "end": "2026-08-30T10:05:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:38:26.043241+00:00",
+      "updated": "2026-06-25T09:19:26.611563+00:00",
       "content_locale": "en"
     },
     {
       "code": "3PBPMG",
-      "id": 1518118,
+      "id": 1526989,
       "title": "Detection and Semantic Annotation of Changes in OpenStreetMap Data",
       "abstract": "Geographical databases such as OpenStreetMap (OSM) are continuously evolving to reflect ground-level transformations. Identifying and characterizing these changes is a key challenge for analyzing evolution over time. While several works have analyzed OSM edit history, the semantic interpretation of changes and the ability to distinguish genuine ground-level evolution from data refinements, tagging corrections, or modeling decisions, remains largely unaddressed. For planners relying on OSM, distinguishing real infrastructure changes from editing artifacts is critical. We address this challenge through two contributions: a web application to explore change dynamics and a methodology for semantic annotation and interpretation of edits.",
       "speakers": [
@@ -2507,11 +2507,11 @@
       "end": "2026-08-30T10:40:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:38:37.552617+00:00",
+      "updated": "2026-06-25T09:19:26.611567+00:00",
       "content_locale": "en"
     },
     {
-      "id": 1497306,
+      "id": 1526990,
       "title": {
         "en": "Morning Break"
       },
@@ -2522,7 +2522,7 @@
     },
     {
       "code": "KYSVEE",
-      "id": 1518115,
+      "id": 1526991,
       "title": "Assessing Data Completeness in OpenStreetMap using the Geometrical and Temporal Properties of Mapping Patterns",
       "abstract": "This study introduces a novel intrinsic completeness metric for OpenStreetMap data, based on the temporal evolution of mean feature geometry, requiring only aggregate feature statistics and no external reference. The results currently depict an exploratory phase and show the method to be robust, computationally simple and potentially universally applicable, albeit still restrictive.",
       "speakers": [
@@ -2533,12 +2533,12 @@
       "end": "2026-08-30T11:50:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:38:50.043554+00:00",
+      "updated": "2026-06-25T09:19:26.611576+00:00",
       "content_locale": "en"
     },
     {
       "code": "7HWF8H",
-      "id": 1518120,
+      "id": 1526992,
       "title": "Global Mining Activity in OpenStreetMap: Methodological Challenges and Data Quality Analysis",
       "abstract": "This study evaluates OpenStreetMap's reliability for global mining mapping, revealing significant data gaps and classification errors compared to scientific benchmarks. It highlights the need for refined filtering methods and better contributor practices to overcome these geographic and semantic biases.",
       "speakers": [
@@ -2549,28 +2549,29 @@
       "end": "2026-08-30T12:25:00+02:00",
       "room": 5873,
       "duration": 20,
-      "updated": "2026-06-24T19:38:58.327892+00:00",
+      "updated": "2026-06-25T09:19:26.611580+00:00",
       "content_locale": "en"
     },
     {
-      "code": "LA3WRV",
-      "id": 1517993,
-      "title": "Public transport stop analysis for OSM and Welzl's algorithm on the sphere",
-      "abstract": "An introduction to the public transport stop analysis (PTSA) project for visualizing public transport mapping habits around the world and a closer look at how to efficiently and accurately measure lots of distances between neighboring OSM objects.",
+      "code": "EL3XUW",
+      "id": 1526981,
+      "title": "From centroid to entrance: a global assessment of POI access locations for accessibility",
+      "abstract": "Transport models routinely anchor points of interest (POIs) at the centroid of their building or parcel. On large multi-building sites, this can misrepresent pedestrian access, distorting first-/last-mile transit access, wheelchair routing, and curbside drop-off precision. We quantify how explicit `entrance=*` detail in OSM shifts accessibility-style metrics relative to centroid proxies. The study uses a global, population/built-volume-weighted random sample to compare centroids against the nearest main entrance. We release the full toolchain that persists measurements between POI / entrance / centroid anchors and the nearest road network and transit stop.",
       "speakers": [
-        "VG7DWX"
+        "LTTXCQ",
+        "98TMMP"
       ],
       "track": null,
       "start": "2026-08-30T12:25:00+02:00",
       "end": "2026-08-30T12:30:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:39:08.130323+00:00",
+      "updated": "2026-06-30T11:18:58.591320+00:00",
       "content_locale": "en"
     },
     {
       "code": "NTXXN8",
-      "id": 1517895,
+      "id": 1526994,
       "title": "OSM contribution analysis in war time",
       "abstract": "This study analyzes OpenStreetMap contributions in Ukraine since the February 2022 invasion, crossing OSM building edits with ACLED conflict events and frontline geometries. Results reveal a sharp spike in edits following the invasion, concentrated around Kyiv, alongside a moderate correlation between bombardment events and mapping activity. Spatial analysis shows contributions near the frontline even in occupied areas, suggesting deletions and ruin tags as proxies for physical destruction.",
       "speakers": [
@@ -2583,12 +2584,12 @@
       "end": "2026-08-30T12:35:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:39:13.816630+00:00",
+      "updated": "2026-06-25T09:19:26.611599+00:00",
       "content_locale": "en"
     },
     {
       "code": "YNRWXR",
-      "id": 1517995,
+      "id": 1526995,
       "title": "Revealing past railway networks from OSM data",
       "abstract": "Many \"way\" elements in OSM are tagged \"railway.\" OpenRailwayMap builds upon them, adding numerous details. However, the lack of \"relation\", between \"ways\" no longer used as railways, hinders the analysis of abandoned lines. Knowledge from the realm of Volunteer Geographic Information can bring the missing link, while leveraging the accuracy of OSM data. This article aims to add nodes of thousands forgotten stations, and to fill hundreds gaps between scattered OSM elements, which are unaware of their former railway line affiliation. The experiment covers almost entire old railway networks of France and Belgium.",
       "speakers": [
@@ -2600,12 +2601,12 @@
       "end": "2026-08-30T12:40:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:39:18.336530+00:00",
+      "updated": "2026-06-25T09:19:26.611603+00:00",
       "content_locale": "en"
     },
     {
       "code": "LKLQFT",
-      "id": 1518000,
+      "id": 1526996,
       "title": "StreetMeasure - A low cost open source framework using monocular depth estimation supporting OSM measurement tags from 360 streetview photos, the case of SP6",
       "abstract": "The StreetMeasure framework addresses the critical lack of road dimension (width=*, lanes=*) in OpenStreetMap. Applied to SP6 provincial road (Piacenza, Italy), by utilizing DA360 for monocular depth estimation and SAM 2 for segmentation, it reconstructs 3D point clouds from distant crowdsourced street-level imagery, which was difficult for traditional photogrammetry. Then it aligns generated depth data with high-resolution satellite transects to recover scale.  This open-source pipeline enriches OSM tags, supports provincial infrastructure management, and enables immersive urban planning simulations.",
       "speakers": [
@@ -2617,12 +2618,12 @@
       "end": "2026-08-30T12:45:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:39:22.414108+00:00",
+      "updated": "2026-06-25T09:19:26.611608+00:00",
       "content_locale": "en"
     },
     {
       "code": "UNTDRT",
-      "id": 1518002,
+      "id": 1526997,
       "title": "Terraink: Lowering Barriers to OpenStreetMap Data Consumption - A Usage Study of an Open-Source Web Application",
       "abstract": "Terraink is an open-source web application that turns OpenStreetMap data into printable city map posters without requiring installation, programming, or GIS expertise. I analyze its first 60 days as a mixed-methods natural experiment to examine whether lowering technical barriers reveals latent demand for OSM-derived outputs beyond expert user communities.",
       "speakers": [
@@ -2633,11 +2634,11 @@
       "end": "2026-08-30T12:50:00+02:00",
       "room": 5873,
       "duration": 5,
-      "updated": "2026-06-24T19:39:26.083686+00:00",
+      "updated": "2026-06-25T09:19:26.611612+00:00",
       "content_locale": "en"
     },
     {
-      "id": 1497307,
+      "id": 1526998,
       "title": {
         "en": "Lunch Break"
       },
@@ -2647,7 +2648,7 @@
       "slot_type": "break"
     },
     {
-      "id": 1497308,
+      "id": 1526999,
       "title": {
         "en": "Afternoon Break"
       },
