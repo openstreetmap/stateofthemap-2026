@@ -8,7 +8,7 @@ room: "Martinique"
 length: "5"
 time: "Sunday, 12:40"
 time_iso: "2026-08-30T10:40:00Z"
-resources: []
+resources: [{ description: "Presentation", url: "https://pretalx.com/media/sotm2026-osm-science/submissions/LKLQFT/resources/2026H_LQjVQkx.pdf" }]
 recording: True
 prerecorded: False
 language: en
