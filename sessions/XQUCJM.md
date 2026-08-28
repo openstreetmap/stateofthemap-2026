@@ -8,7 +8,7 @@ room: "La Réunion"
 length: "20"
 time: "Saturday, 11:50"
 time_iso: "2026-08-29T09:50:00Z"
-resources: [{ description: "OSM2World Website", url: "http://osm2world.org/" }]
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/submissions/XQUCJM/resources/OSM2World_SotM_20_tp0BQGG.pdf" },{ description: "OSM2World Website", url: "http://osm2world.org/" }]
 recording: True
 prerecorded: False
 language: en
