@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Histrorical mapping"
+title: "Historical mapping"
 code: "PABEQL"
 speaker_names: ["Minh Nguyễn"]
 affiliations: None
