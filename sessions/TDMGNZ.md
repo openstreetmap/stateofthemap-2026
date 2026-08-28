@@ -8,7 +8,7 @@ room: "Martinique"
 length: "5"
 time: "Saturday, 10:20"
 time_iso: "2026-08-29T08:20:00Z"
-resources: []
+resources: [{ description: "Conference paper", url: "https://doi.org/10.5281/zenodo.21607102" },{ description: "Presentation", url: "https://doi.org/10.5281/zenodo.22150818" }]
 recording: True
 prerecorded: False
 language: en
