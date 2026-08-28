@@ -8,7 +8,7 @@ room: "Guadeloupe"
 length: "20"
 time: "Saturday, 11:15"
 time_iso: "2026-08-29T09:15:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/submissions/LT3DRY/resources/SOTM_MOTIS_ugfeL8r.pdf" }]
 recording: True
 prerecorded: False
 language: en
