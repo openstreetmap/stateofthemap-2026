@@ -8,7 +8,7 @@ room: "La Réunion"
 length: "20"
 time: "Sunday, 10:05"
 time_iso: "2026-08-30T08:05:00Z"
-resources: [{ description: "Code repository", url: "https://codeberg.org/comaps/comaps" },{ description: "CoMaps website", url: "https://www.comaps.app/" }]
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/submissions/DDJRVU/resources/main_hwZxe1I.pdf" },{ description: "Code repository", url: "https://codeberg.org/comaps/comaps" },{ description: "CoMaps website", url: "https://www.comaps.app/" }]
 recording: True
 prerecorded: False
 language: en
