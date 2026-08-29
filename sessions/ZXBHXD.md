@@ -8,7 +8,7 @@ room: "Guadeloupe"
 length: "20"
 time: "Saturday, 14:30"
 time_iso: "2026-08-29T12:30:00Z"
-resources: []
+resources: [{ description: "PDF slides", url: "https://pretalx.com/media/sotm2026/submissions/ZXBHXD/resources/Construction_Ahea_9n0e4LI.pdf" },{ description: "Online slides", url: "https://sotm2026.pablobm.com/" }]
 recording: True
 prerecorded: False
 language: en
