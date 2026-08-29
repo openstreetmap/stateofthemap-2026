@@ -8,7 +8,7 @@ room: "Corse"
 length: "20"
 time: "Saturday, 11:50"
 time_iso: "2026-08-29T09:50:00Z"
-resources: []
+resources: [{ description: "Cyclinfra slides for SOTM26", url: "https://pretalx.com/media/sotm2026/submissions/SFXJZM/resources/2026-08-29_SOTM_-_2RlKnFt.pdf" }]
 recording: True
 prerecorded: False
 language: en
