@@ -8,7 +8,7 @@ room: "Guadeloupe"
 length: "30"
 time: "Saturday, 09:30"
 time_iso: "2026-08-29T07:30:00Z"
-resources: []
+resources: [{ description: "Presentation showed", url: "https://pretalx.com/media/sotm2026/submissions/CWT8FR/resources/Republique_des_Ca_dO5PH4D.pdf" }]
 recording: True
 prerecorded: False
 language: en
