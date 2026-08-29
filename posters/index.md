@@ -91,21 +91,22 @@ Taking OpenStreetMap map design to the next level. This poster features experime
 
 [<img src="../img/posters/11.jpg">](https://files.osmfoundation.org/public.php/dav/files/HjsTkokJMWR8Yj2/?accept=zip)
 
-
-<h2 id="12"></h2>
-
-[<img src="../img/posters/12.jpg">](https://files.osmfoundation.org/public.php/dav/files/L6RRjArkWbewGGm/?accept=zip)
-
 I made this map of Svalbard to visualize how much of the archipelago's glacial ice has been added to OpenStreetMap compared to the Norwegian Polar Institute's 2020 baseline. Because OSM relies on manual tracing rather than automated processing of satellite data, the comparison between the two shows the gaps in OSM data in remote polar regions, particularly for natural features.
 
-<h2 id="13">Gauthier Le Tat et al.</h2>
+<h2 id="12">Gauthier Le Tat et al.</h2>
 <h3>Gauthier Le Tat, Ilyes Ahmim, Abderrezak Rachedi, Mohamed Chachoua, Ahmed Mebarki, Fabrice Vienne</h3>
 
-[<img src="../img/posters/13.jpg">](https://files.osmfoundation.org/public.php/dav/files/PSrTZSCmctALNHM/?accept=zip)
+[<img src="../img/posters/12.jpg">](https://files.osmfoundation.org/public.php/dav/files/L6RRjArkWbewGGm/?accept=zip)
 
 This poster shows how we use OpenStreetMap as the main open data source to build a digital twin of a road, within the eRoadMontBlanc electric-road national project. A small service extracts the road straight from OSM (route via OSRM, geometry and tags via Overpass, points of interest via Nominatim) and enriches it with altitude, longitudinal slope and cross slope. We then translate them into standardized, self-describing NGSI-LD entities (JSON-LD, following the FIWARE Smart Data Models), which is an ETSI standard widely used in the digital twin ecosystem. Expressed this way, the OSM-derived data lives in one context broker and feeds every service of the platform through a single API, so all services rely on standardized data, which can be enriched in real time with IoT sensors.
 
 Generative AI has been used for the redaction of this poster during the redacting phase; for reformulation purposes, in order to enhance grammar and vocabulary for better legibility.
+
+<h2 id="13">Moine Frédéric</h2>
+
+[<img src="../img/posters/13.jpg">](https://files.osmfoundation.org/public.php/dav/files/PSrTZSCmctALNHM/?accept=zip)
+
+This poster presents a citizen water and forest observatory developed in the Grésivaudan Valley, French Alps. It shows how OpenStreetMap can describe water as a connected system, from springs, rivers and wetlands to irrigation and urban infrastructure. HydroSHEDS v2 is currently available only for the Americas, with no confirmed release date for the rest of the world. As HydroSHEDS also uses OpenStreetMap to improve its hydrographic network, strengthening water mapping through the global OSM community can benefit both present and future datasets. The poster also links OSM with ISO 19156 OMS, SensorThings, I-ADOPT and QUDT to connect mapped features with interoperable observations.
 
 <h2 id="14">Priscilla Zachee</h2>
 
