@@ -7,7 +7,7 @@ title: Social Event
 On Saturday evening, the SoTM team is happy to invite you for the social event.
 Let's meet in the heart of Paris for a very special evening at the [Musée des Arts et Métiers](https://www.arts-et-metiers.net/) (on [OSM](https://www.openstreetmap.org/node/247618453)), the historical museum of innovation and technology.
 
-Enjoy a nice buffet, meet the community and be ready for some surprises !
+We expect you at the location around 19:30, where you can enjoy a nice buffet, meet the community and be ready for some surprises!
 
 Is the main hall not enough? You can visit the whole museum by night (by reservation only with a 10€ extra fee, please mind the tick box at the end of the registration form).
 
