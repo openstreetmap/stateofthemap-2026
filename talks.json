@@ -1684,7 +1684,7 @@
       "code": "DWSETV",
       "id": 1593452,
       "title": "Lightning Talks III",
-      "abstract": "* Geoparquet for OSM\r\n* Mapping cycleways according to ECF",
+      "abstract": "* Geoparquet for OSM\r\n* Mapping cycleways according to ECF\r\n* Enriching OSM using POI's websites\r\n* Mapping datacenters as a community with OSM",
       "speakers": [
         "SNKPLF"
       ],
@@ -2277,7 +2277,7 @@
       "code": "WYKG8T",
       "id": 1593497,
       "title": "Lightning Talks V",
-      "abstract": "* Investigating Hospitality (SK53)\r\n* Cartography with tilemaker (Richard Fairhurst)\r\n*Nik5 - a C++ port of Nik4 (Michael Reichert)",
+      "abstract": "* Investigating Hospitality (SK53)\r\n* Cartography with tilemaker (Richard Fairhurst)\r\n* Nik5 - a C++ port of Nik4 (Michael Reichert)\r\n* Linear maps for shopping streets (Robert Whittaker)",
       "speakers": [
         "SNKPLF"
       ],
