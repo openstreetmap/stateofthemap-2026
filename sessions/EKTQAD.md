@@ -8,7 +8,7 @@ room: "Tahiti"
 length: "60"
 time: "Saturday, 14:30"
 time_iso: "2026-08-29T12:30:00Z"
-resources: []
+resources: [{ description: "Workshop Slides", url: "https://pretalx.com/media/sotm2026/submissions/EKTQAD/resources/2026_SotM_Paris_I_ZhOLcNH.pdf" }]
 recording: False
 prerecorded: False
 language: en
