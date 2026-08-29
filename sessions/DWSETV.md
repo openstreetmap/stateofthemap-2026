@@ -18,4 +18,5 @@ language: en
 * Mapping cycleways according to ECF
 * Enriching OSM using POI's websites
 * Mapping datacenters as a community with OSM
+* passstrasse.com - 100% AI map app
 
