@@ -8,7 +8,7 @@ room: "Martinique"
 length: "20"
 time: "Saturday, 09:30"
 time_iso: "2026-08-29T07:30:00Z"
-resources: [{ description: "Presentation file", url: "https://pretalx.com/media/sotm2026-osm-science/submissions/PAF7YC/resources/OSM__G9eaQGH.pptx" },{ description: "Slides - PDF file", url: "https://pretalx.com/media/sotm2026-osm-science/submissions/PAF7YC/resources/OSM_S_7g5omUq.pdf" }]
+resources: [{ description: "Slides - presentation", url: "https://pretalx.com/media/sotm2026-osm-science/submissions/PAF7YC/resources/OSM__o4GlyU4.pptx" },{ description: "Slides - PDF", url: "https://pretalx.com/media/sotm2026-osm-science/submissions/PAF7YC/resources/OSM_S_M0qANhj.pdf" }]
 recording: True
 prerecorded: False
 language: en
