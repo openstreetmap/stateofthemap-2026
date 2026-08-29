@@ -8,7 +8,7 @@ room: "Martinique"
 length: "5"
 time: "Saturday, 15:45"
 time_iso: "2026-08-29T13:45:00Z"
-resources: [{ description: "Presentation_Paris_260829", url: "https://pretalx.com/media/sotm2026-osm-science/submissions/EYA7UN/resources/OSM_f_xs0pEC6.pdf" }]
+resources: [{ description: "Presentation_Paris_260829", url: "https://pretalx.com/media/sotm2026-osm-science/submissions/EYA7UN/resources/OSM_f_gQO0YGi.pdf" }]
 recording: True
 prerecorded: False
 language: en
