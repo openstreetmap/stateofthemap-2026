@@ -8,7 +8,7 @@ room: "Corse"
 length: "20"
 time: "Saturday, 11:15"
 time_iso: "2026-08-29T09:15:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/submissions/KVZZWR/resources/20260829-milliped_kYbSWzn.pdf" }]
 recording: True
 prerecorded: False
 language: en
