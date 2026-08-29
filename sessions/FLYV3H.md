@@ -8,7 +8,7 @@ room: "Martinique"
 length: "20"
 time: "Saturday, 16:45"
 time_iso: "2026-08-29T14:45:00Z"
-resources: [{ description: "Slides", url: "https://warwickcim.github.io/dgn-osm-neutrality/slides/2026-08-27_sotm/" }]
+resources: [{ description: "Slides", url: "https://doi.org/10.5281/zenodo.22158699" }]
 recording: True
 prerecorded: False
 language: en
