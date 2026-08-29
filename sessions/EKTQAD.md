@@ -28,11 +28,9 @@ A central part of the workshop consists of exercises, where participants will wo
 
 Once ohsome-filters are created, participants will apply them to regions of their choice. This allows them to explore real-world questions such as: 
 
-    How complete is a certain attribute in a given area? 
-
-    How up-to-date is the data? 
-
-    How has mapping activity evolved over time? 
+- How complete is a certain attribute in a given area? 
+- How up-to-date is the data? 
+- How has mapping activity evolved over time? 
 
 In the final part of the workshop, we will briefly introduce more advanced analytical possibilities, including working with changesets and exploring user-based statistics to better understand contribution patterns and community dynamics.  
 
