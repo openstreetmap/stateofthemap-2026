@@ -8,7 +8,7 @@ room: "Martinique"
 length: "5"
 time: "Saturday, 15:55"
 time_iso: "2026-08-29T13:55:00Z"
-resources: []
+resources: [{ description: "Assessing OSM data quality at scale starting from bicycle route relations", url: "https://pretalx.com/media/sotm2026-osm-science/submissions/FPWSB8/resources/Light_BvOTf3j.pdf" }]
 recording: True
 prerecorded: False
 language: en
