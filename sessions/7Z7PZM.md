@@ -8,7 +8,7 @@ room: "La Réunion"
 length: "40"
 time: "Saturday, 16:45"
 time_iso: "2026-08-29T14:45:00Z"
-resources: []
+resources: [{ description: "Presentation slides", url: "https://pretalx.com/media/sotm2026/submissions/7Z7PZM/resources/Text_with_a_purpo_7kTKNA9.pdf" }]
 recording: True
 prerecorded: False
 language: en
