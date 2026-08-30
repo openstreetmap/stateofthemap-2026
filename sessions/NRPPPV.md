@@ -8,7 +8,7 @@ room: "La Réunion"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2026-08-30T07:30:00Z"
-resources: [{ description: "slides", url: "https://pretalx.com/media/sotm2026/submissions/NRPPPV/resources/Reichert_Where_Ar_dEL87dU.pdf" }]
+resources: [{ description: "slides", url: "https://pretalx.com/media/sotm2026/submissions/NRPPPV/resources/Reichert_Where_Ar_BXDhddG.pdf" }]
 recording: True
 prerecorded: False
 language: en
