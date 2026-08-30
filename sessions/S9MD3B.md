@@ -8,7 +8,7 @@ room: "La Réunion"
 length: "20"
 time: "Sunday, 12:25"
 time_iso: "2026-08-30T10:25:00Z"
-resources: []
+resources: [{ description: "ohsome_2.0_slides", url: "https://pretalx.com/media/sotm2026/submissions/S9MD3B/resources/sotm_2026_herfort_qoAH741.pdf" }]
 recording: True
 prerecorded: False
 language: en
