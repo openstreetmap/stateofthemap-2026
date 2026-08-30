@@ -15,4 +15,8 @@ language: en
 ---
 
 * Mapping agricultural cooperatives in Africa with MapComplete and Panoramax
+* OSM - Wikidata linking update
+* BreadNear.me
+* &#34;Milk types&#34; proposal (Luna)
+* Being a MapLibre maintainer in the age of LLMs
 
