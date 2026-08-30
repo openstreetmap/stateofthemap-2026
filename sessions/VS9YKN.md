@@ -8,7 +8,7 @@ room: "La Réunion"
 length: "20"
 time: "Friday, 11:15"
 time_iso: "2026-08-28T09:15:00Z"
-resources: []
+resources: [{ description: "The support of my talk &#34;Structuring road information in open data: a nested Wikidata – OSM – BD TOPO (IGN) architecture co-produced by territorial authorities&#34;", url: "https://pretalx.com/media/sotm2026/submissions/VS9YKN/resources/PRES_JLZ_road-inf_hyLCUDN.pdf" }]
 recording: True
 prerecorded: False
 language: en
