@@ -23,3 +23,5 @@ This workshop about JOSM paint styles will be divided into sections:
 - Why and how you can create your very own that will fit your exact needs because it is gonna be built by you
 - How to share your creation with the world
 
+Here is Filip009 railway signals JOSM paintstyle https://github.com/Patrik-Br/My-JOSM/blob/main/Paint_style%2FRailway_paintstyle_by_Filip009.zip
+
