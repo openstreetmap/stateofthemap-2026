@@ -8,7 +8,7 @@ room: "Martinique"
 length: "20"
 time: "Sunday, 15:40"
 time_iso: "2026-08-30T13:40:00Z"
-resources: []
+resources: [{ description: "Presentation Slide", url: "https://docs.google.com/presentation/d/1-cW9LhtDjO1VQWz_8pjAubRAkhRPWcUZNefKvngXHmA/edit?usp=sharing" }]
 recording: True
 prerecorded: False
 language: en
