@@ -4,7 +4,7 @@ title: "Closing"
 code: "RHY7NP"
 speaker_names: ["SotM Working Group"]
 affiliations: None
-room: "Guadeloupe"
+room: "Martinique"
 length: "20"
 time: "Sunday, 16:45"
 time_iso: "2026-08-30T14:45:00Z"
