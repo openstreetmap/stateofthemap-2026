@@ -14,5 +14,5 @@ prerecorded: False
 language: en
 ---
 
-Lightning talks are short presentations (maximum 5 minutes) about a topic related to OpenStreetMap.
+* Mapping agricultural cooperatives in Africa with MapComplete and Panoramax
 

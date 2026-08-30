@@ -18,4 +18,5 @@ language: en
 * Cartography with tilemaker (Richard Fairhurst)
 * Nik5 - a C++ port of Nik4 (Michael Reichert)
 * Linear maps for shopping streets (Robert Whittaker)
+* Exploring bike share time series availability data with DuckDB
 
