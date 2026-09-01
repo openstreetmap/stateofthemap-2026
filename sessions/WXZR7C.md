@@ -8,7 +8,7 @@ room: "Guadeloupe"
 length: "20"
 time: "Sunday, 11:15"
 time_iso: "2026-08-30T09:15:00Z"
-resources: []
+resources: [{ description: "Slides for the &#34;Moving around with OpenStreetMap&#34; talk at State of the Map 2026 in Paris", url: "https://pretalx.com/media/sotm2026/submissions/WXZR7C/resources/moving_around_wit_M6olwRD.pdf" }]
 recording: True
 prerecorded: False
 language: en
