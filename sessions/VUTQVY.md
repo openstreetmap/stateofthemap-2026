@@ -8,7 +8,7 @@ room: "Guadeloupe"
 length: "20"
 time: "Sunday, 15:40"
 time_iso: "2026-08-30T13:40:00Z"
-resources: []
+resources: [{ description: "Wonders of OSM slide (all interactive with links on pictures)", url: "https://pretalx.com/media/sotm2026/submissions/VUTQVY/resources/Wonders_of_OSM_uBrVHy2.pdf" }]
 recording: True
 prerecorded: False
 language: en
