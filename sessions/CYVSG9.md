@@ -8,7 +8,7 @@ room: "La Réunion"
 length: "20"
 time: "Friday, 15:40"
 time_iso: "2026-08-28T13:40:00Z"
-resources: []
+resources: [{ description: "My slides", url: "https://pretalx.com/media/sotm2026/submissions/CYVSG9/resources/SOTM2026_Talk_Ste_pS3AgmD.pdf" }]
 recording: True
 prerecorded: False
 language: en
