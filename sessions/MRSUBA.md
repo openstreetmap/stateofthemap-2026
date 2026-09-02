@@ -8,7 +8,7 @@ room: "La Réunion"
 length: "20"
 time: "Sunday, 14:30"
 time_iso: "2026-08-30T12:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/submissions/MRSUBA/resources/Here_be_Rainbows__50ddYsd.pdf" }]
 recording: True
 prerecorded: False
 language: en
