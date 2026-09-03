@@ -8,7 +8,7 @@ room: "La Réunion"
 length: "20"
 time: "Friday, 17:20"
 time_iso: "2026-08-28T15:20:00Z"
-resources: [{ description: "Slides as Web page", url: "https://dev.cartes.app/sotm26" }]
+resources: [{ description: "Slides as Web page", url: "https://cartes.app/sotm26" }]
 recording: True
 prerecorded: False
 language: en
