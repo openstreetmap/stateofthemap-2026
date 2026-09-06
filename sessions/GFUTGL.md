@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/51b90b55-1793-469f-b84d-625bb2730968
 layout: session
 title: "&#34;Tous EGO&#34; University mapping project for accessibility"
 code: "GFUTGL"

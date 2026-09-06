@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/203e5efb-c877-43ea-91ff-bb6cad27f407
 layout: session
 title: "State of OpenHistoricalMap: mapping the world's history, openly"
 code: "GJWH7J"

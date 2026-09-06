@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/902ff618-055d-4873-8b98-824429f60166
 layout: session
 title: "Text with a purpose - building the image of the world for blind users through structured and complete POI data"
 code: "7Z7PZM"

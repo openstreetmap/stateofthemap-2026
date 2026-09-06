@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/3923affb-0f5e-46bc-8d9e-4553f97b21de
 layout: session
 title: "OSMF Board AMA"
 code: "LPJ9S7"

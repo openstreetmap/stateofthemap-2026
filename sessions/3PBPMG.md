@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/924ab561-4a97-40c6-91a4-5d325356a0a1
 layout: session
 title: "Detection and Semantic Annotation of Changes in OpenStreetMap Data"
 code: "3PBPMG"

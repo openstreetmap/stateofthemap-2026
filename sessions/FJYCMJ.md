@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/06c46018-c3f5-406e-8d28-93e84ad752d7
 layout: session
 title: "UN Mappers: Building Local Capacities and Communities to Support Peace with OpenStreetMap"
 code: "FJYCMJ"

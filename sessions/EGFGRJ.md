@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/ebaa4559-1230-4f35-a44f-9125c58cd026
 layout: session
 title: "GeoDesk: The OpenStreetMap toolkit that's fast, easy and fun"
 code: "EGFGRJ"

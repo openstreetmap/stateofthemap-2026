@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/9ce00b5d-0395-4d58-98c5-c83d1d0ac645
 layout: session
 title: "Announcing MapRoulette 4!"
 code: "WJFRPV"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/e21ad8c5-c25f-4902-abc9-06ae3710b1f1
 layout: session
 title: "Whose Knowledge Counts? Analysing Diversity and Exclusion in OpenStreetMap's Tagging Proposals Process"
 code: "FLYV3H"

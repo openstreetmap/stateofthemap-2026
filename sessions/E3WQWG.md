@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/2d6cba6c-450d-46af-a816-e47ab3cd454d
 layout: session
 title: "A Swiss Army knife for geographical data voxelization"
 code: "E3WQWG"

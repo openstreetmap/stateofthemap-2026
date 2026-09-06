@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/91f3ffdb-c33b-4e9e-ba28-67835bad8756
 layout: session
 title: "Do maps have a future in OpenStreetMap?"
 code: "TLGDFF"

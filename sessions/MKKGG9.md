@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/cfde063f-c98f-4b35-8b0b-81bdec5f66e0
 layout: session
 title: "MapLibre - from data to rendering, in one status update"
 code: "MKKGG9"

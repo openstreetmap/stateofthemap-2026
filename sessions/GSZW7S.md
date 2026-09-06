@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/03ec9b1d-837d-4de4-8663-7b0a8bf12a45
 layout: session
 title: "UseOSM: Promoting OpenStreetMap Data Usage and Impact Through an Open and Accessible Web Platform"
 code: "GSZW7S"

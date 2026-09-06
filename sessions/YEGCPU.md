@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/4b9ed023-f533-45cf-827b-6f07dd99bb42
 layout: session
 title: "Immersing Panoramax in the 3D world"
 code: "YEGCPU"

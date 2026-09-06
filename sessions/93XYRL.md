@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/7a0609f7-1621-41bd-8048-e29f9941f1fb
 layout: session
 title: "Lost in hospital? OpenStreetMap to the rescue"
 code: "93XYRL"

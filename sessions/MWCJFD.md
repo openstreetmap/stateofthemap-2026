@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/bd41e944-9343-482b-b41c-f952aeb6a468
 layout: session
 title: "Consumed at Scale: AI-Driven Extraction and the Political Economy of OpenStreetMap"
 code: "MWCJFD"

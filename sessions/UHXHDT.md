@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/d96d0ae2-6ea2-4018-be97-994a86c59b74
 layout: session
 title: "Perspectives on editors"
 code: "UHXHDT"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/d005170f-dc7a-4069-aae6-6ae590efc628
 layout: session
 title: "The democratic stakes of mapmaking: a cross-community panel"
 code: "SMGDU7"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/ccf8d511-bec1-480f-b14e-3e17000f70e2
 layout: session
 title: "OSM contribution analysis in war time"
 code: "NTXXN8"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/7407ca37-b589-4964-a640-b1e625af3ef3
 layout: session
 title: "One region. 40,000 bus stops. An OSM map at every one."
 code: "JDCVGM"

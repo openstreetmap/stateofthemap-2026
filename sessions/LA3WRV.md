@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/62f9b164-e24d-4248-93ec-0351a127c0a8
 layout: session
 title: "Public transport stop analysis for OSM and Welzl's algorithm on the sphere"
 code: "LA3WRV"

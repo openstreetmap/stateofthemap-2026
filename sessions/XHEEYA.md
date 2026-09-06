@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/ec694640-e956-4eb2-9747-9fbe9293e26c
 layout: session
 title: "Inter-Faceing the Critique – A Socio-technical Perspective on Humanitarian Mapping with the HOT TM"
 code: "XHEEYA"

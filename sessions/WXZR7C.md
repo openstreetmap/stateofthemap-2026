@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/bad98ef3-dd5f-4fa3-8864-7518cd5f7471
 layout: session
 title: "Moving around with OpenStreetMap"
 code: "WXZR7C"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/4131982c-184a-4f82-93ef-be3a2553e1ad
 layout: session
 title: "Wonders of OSM"
 code: "VUTQVY"

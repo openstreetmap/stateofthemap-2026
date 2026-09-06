@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/e9113336-57bc-4587-b627-d64d33067138
 layout: session
 title: "Clearance: Quality Proxy for OSM Replication. The Roadmap up to v1.0"
 code: "VGGXRJ"

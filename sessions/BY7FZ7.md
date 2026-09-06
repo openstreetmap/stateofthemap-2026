@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/5e2cdad1-fc5b-47fe-8101-4b1feb8b7845
 layout: session
 title: "The Power of quality in OpenStreetMap"
 code: "BY7FZ7"

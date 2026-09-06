@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/1f7f0095-46cc-458d-aac5-89f6da76f76d
 layout: session
 title: "Here be Rainbows: LGBTQ mapping in OSM"
 code: "MRSUBA"

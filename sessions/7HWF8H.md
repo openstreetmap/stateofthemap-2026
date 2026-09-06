@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/ff42d876-b40f-49e1-85ce-85607aff9db4
 layout: session
 title: "Global Mining Activity in OpenStreetMap: Methodological Challenges and Data Quality Analysis"
 code: "7HWF8H"

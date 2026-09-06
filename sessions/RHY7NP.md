@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/ffe0ba67-dea3-4f34-b17f-5e2719e21190
 layout: session
 title: "Closing"
 code: "RHY7NP"

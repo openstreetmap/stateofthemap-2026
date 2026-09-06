@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/34261db0-c5e0-41b6-a449-ae44104c48eb
 layout: session
 title: "Opening"
 code: "SEDEA8"

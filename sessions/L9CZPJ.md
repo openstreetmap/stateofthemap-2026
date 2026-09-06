@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/d7042568-396b-4f76-87de-6677b1ea02ad
 layout: session
 title: "Putting Childcare on the Map: Supporting Parents in Nairobi Through OpenStreetMap"
 code: "L9CZPJ"

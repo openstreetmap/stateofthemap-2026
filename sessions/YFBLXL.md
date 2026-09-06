@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/7b9e8cd9-da68-4e3c-90f5-ba4e8c639d37
 layout: session
 title: "OSM for Cities: Breaking the data waste cycle"
 code: "YFBLXL"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/ef1375fa-39c6-4f48-ad69-ceef9f56adeb
 layout: session
 title: "Sneaking in OSM data into a big old company"
 code: "K8XYAN"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/3eb5b93a-0cf8-45db-840a-fddca697fcbb
 layout: session
 title: "Transitous - Free and Open Public transport routing"
 code: "3WLKJ9"

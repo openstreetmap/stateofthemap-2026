@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/e5906ca4-1875-4fab-97ee-ad9462ce58d5
 layout: session
 title: "A new stack for OpenStreetMap vector tiles"
 code: "9C7LJM"

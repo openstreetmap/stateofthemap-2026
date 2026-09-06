@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/1a2f9ec2-c66a-4593-8892-1405ab16756c
 layout: session
 title: "Assessing Data Completeness in OpenStreetMap using the Geometrical and Temporal Properties of Mapping Patterns"
 code: "KYSVEE"

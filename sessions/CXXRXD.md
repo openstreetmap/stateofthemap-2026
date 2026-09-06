@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/cf71bda6-dd59-4101-b0fd-d9eee88dd7c5
 layout: session
 title: "How Carto’Cité maintains OSM data for 436 train stations efficiently using PostGIS and QGIS"
 code: "CXXRXD"

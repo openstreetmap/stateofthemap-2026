@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/e904f5b4-20e4-4aff-a9ce-125759b1f998
 layout: session
 title: "Reviewing OSM Changes Before Integration: Introducing LeBonTag"
 code: "X7EKQG"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/656cd68f-9f45-44f3-b0d5-19b1da678707
 layout: session
 title: "Mapterhorn Terrain and Imagery"
 code: "UQF7NY"

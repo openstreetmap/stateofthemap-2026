@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/6f10662e-6f2c-46ca-94cf-d7d091def441
 layout: session
 title: "OSMPID: A Persistent ID Specification and an Object Identity Service"
 code: "CYVSG9"

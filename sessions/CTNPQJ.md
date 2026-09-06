@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/20427cbe-d421-4373-91c0-f703fef8b3b4
 layout: session
 title: "Indoor Mapping Potential in OpenStreetMap: Estimating the Amount of Publicly Accessible Indoor Spaces Across European Cities"
 code: "CTNPQJ"

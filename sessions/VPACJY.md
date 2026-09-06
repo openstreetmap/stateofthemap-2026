@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/266d46e3-ebf7-43e7-be94-19a5d7ae8637
 layout: session
 title: "Adopt Your Town"
 code: "VPACJY"

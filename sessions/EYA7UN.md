@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/870d8f33-0766-4fbf-a71e-7a4e92ae1695
 layout: session
 title: "OpenStreetMap for Travel Demand Modeling: An Open Approach to Derive Attractiveness for Destination Choice Models"
 code: "EYA7UN"

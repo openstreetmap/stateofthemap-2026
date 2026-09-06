@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/8313ddb8-776e-4649-994b-7a5d0a50fad2
 layout: session
 title: "Update on attribution enforcement for users of OpenStreetMap servers"
 code: "8V7LYM"

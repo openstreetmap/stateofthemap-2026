@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/e1d501c9-033f-4c3b-8dba-d873a5aa6e9a
 layout: session
 title: "Emergency Services using OpenStreetMap in Germany"
 code: "3GRKKJ"

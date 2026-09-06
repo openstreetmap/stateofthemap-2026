@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/945ce418-183d-454c-a76f-f1e682789a6a
 layout: session
 title: "OSM Skeleton: Completing the Backbone of OSM Data"
 code: "8SKDAR"

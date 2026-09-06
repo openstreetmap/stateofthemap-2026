@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/7cae2160-b655-4c5d-b0c0-98214f304c57
 layout: session
 title: "From centroid to entrance: a global assessment of POI access locations for accessibility"
 code: "EL3XUW"

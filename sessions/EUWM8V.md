@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/91cfee1f-700a-4bda-b252-9b979f5319ec
 layout: session
 title: "Mapping the City in the Rhythm of Colours and Sounds: OpenStreetMap as a Basis for Multisensory Civic Cartography"
 code: "EUWM8V"

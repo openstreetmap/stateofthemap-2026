@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/c78a8f97-db7e-4f55-8961-041f5b4ca87e
 layout: session
 title: "OpenStreetMap on Board: How We Fit Europe into 300 High-Speed Trains"
 code: "TV9DUV"

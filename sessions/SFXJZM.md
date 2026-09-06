@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/f60f2a07-9eb4-4cc6-8ea8-123ee745f880
 layout: session
 title: "How OSM inspire CEN standards for cycling infrastructure"
 code: "SFXJZM"

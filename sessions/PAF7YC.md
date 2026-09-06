@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/e4fd10d0-920b-408b-9b12-258f304bc42f
 layout: session
 title: "OSM Science 2026: Introduction"
 code: "PAF7YC"

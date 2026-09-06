@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/89cbf737-1b99-419d-adec-f1b65af0f8e2
 layout: session
 title: "50 States (and at Least as Many Mappers): Community Building in the US Over the Last Decade"
 code: "RYFJC7"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/feb0c11a-5285-42e4-9c86-3664ace14cd2
 layout: session
 title: "OSMSG : OpenStreetMap User Group Hashtag Stats"
 code: "HJLK8U"

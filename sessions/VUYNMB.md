@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/c64ce414-3856-416d-979a-73bc59e74221
 layout: session
 title: "When Maps Mislead: Lessons from Outdoor Navigation with OpenStreetMap"
 code: "VUYNMB"

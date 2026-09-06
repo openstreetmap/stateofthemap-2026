@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/2f6ea4a0-748e-4e00-b0a4-eada1ca01dc8
 layout: session
 title: "Centipede-RTK with RTKBase and Millipede: centimeter-level GNSS positioning"
 code: "KVZZWR"

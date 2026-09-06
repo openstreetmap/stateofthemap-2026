@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/05596101-d5be-4052-98a1-df51e853badb
 layout: session
 title: "1000 ways to kill OpenStreetMap in Ghana and elsewhere in Africa"
 code: "RY8MQP"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/6ac8d9dd-b9e5-4bdd-ae53-bab47578be2b
 layout: session
 title: "Upgrading the OSM Front Page"
 code: "EFTDVX"

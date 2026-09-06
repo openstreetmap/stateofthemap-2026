@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/0bcb1e39-8a82-454c-ad6a-5ddf6d37cb3a
 layout: session
 title: "How OpenStreetMap became the backbone of France's National Cycling Database"
 code: "DTQXXN"

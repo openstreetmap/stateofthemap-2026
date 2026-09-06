@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/629fc39c-4471-4943-9995-6bd69b920ceb
 layout: session
 title: "MyGreenSpace : Relying on Open Data to Characterize the Health Potential of Urban Green Spaces"
 code: "KFDLAR"

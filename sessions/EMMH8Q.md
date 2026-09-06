@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/7703b292-0ec6-4a69-b7db-31da29758d7a
 layout: session
 title: "Sourdough and Layercake: removing technical barriers to using OSM data for cartography and analysis"
 code: "EMMH8Q"

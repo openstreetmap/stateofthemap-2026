@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/7b3c4689-e9cb-4e5e-859d-997e917a22af
 layout: session
 title: "Why do you contribute to OSM?"
 code: "GXXCFE"

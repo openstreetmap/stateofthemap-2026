@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/27fbc233-a173-4ef9-9fcb-9da10415c4f7
 layout: session
 title: "Construction ahead"
 code: "ZXBHXD"

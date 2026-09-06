@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/9d14b078-fe81-4394-8153-0e1578448446
 layout: session
 title: "Cartes.app is now international"
 code: "HVPZWK"

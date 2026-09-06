@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/560c25b4-9d4a-4573-a2b5-c14838a0dbbd
 layout: session
 title: "Creating maps for the outdoors community in France: successes and challenges"
 code: "QJJS3X"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/460ca19a-31ba-4567-b5f0-a19a7ee597a3
 layout: session
 title: "CoMaps - How to make a community-based map &amp; navigation app based on OpenStreetMap"
 code: "DDJRVU"

@@ -70,18 +70,15 @@ color: dark-nav
         <hr class="space-right4">
         {% endif %}
 
-        {% if page.voc or page.youtube %}
+        {% if page.peertube or page.voc or page.youtube %}
         <p>
         {% endif %}
 
+        {% if page.peertube %}<a href="{{ page.peertube }}">video on peertube</a><br>{% endif %}
         {% if page.voc %}<a href="{{ page.voc }}">video on media.ccc.de</a><br>{% endif %}
         {% if page.youtube %}<a href="https://www.youtube.com/watch?v={{ page.youtube }}">video on YouTube</a><br>{% endif %}
-        {% if page.youtube2 %}<a href="https://www.youtube.com/watch?v={{ page.youtube2 }}">video on YouTube</a><br>{% endif %}
-        {% if page.youtube_ES %}<a href="https://www.youtube.com/watch?v={{ page.youtube_ES }}">video on YouTube (La traducción española)</a><br>{% endif %}
-        {% if page.youtube_ID %}<a href="https://www.youtube.com/watch?v={{ page.youtube_ID }}">video on YouTube (Terjemahan bahasa Indonesia)</a><br>{% endif %}
-        {% if page.youtube_RU %}<a href="https://www.youtube.com/watch?v={{ page.youtube_RU }}">video on YouTube (Russian (русский) translation)</a><br>{% endif %}
 
-        {% if page.voc or page.youtube %}
+        {% if page.peertube or page.voc or page.youtube %}
         </p><hr class="space-right4">
         {% endif %}
 
@@ -108,6 +105,9 @@ color: dark-nav
         <ul class='abstract-speaker'><li>{{page.speaker_names | join: '</li><li>' }}</li><li>({{page.affiliations}})</li></ul>
         {% endif %}
 
+        {% if page.peertube %}
+        <iframe src="{{ page.peertube | replace: "watch", "embed" }}" style="border: 0px; width:100%; aspect-ratio: 16/9;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" onload="this.style.height=(this.clientWidth*9/16)+'px';"></iframe>
+        {% endif %}
         {% if page.recordings %}
         <iframe src="{{ page.voc }}/oembed" frameborder="0" allowfullscreen style="width:100%; aspect-ratio: 16/9;" onload="this.style.height=(this.clientWidth*9/16)+'px';">
           <video controls width="100%" poster="/img/video-previews/video-{{ page.code }}.jpeg" style="margin-bottom:2em">

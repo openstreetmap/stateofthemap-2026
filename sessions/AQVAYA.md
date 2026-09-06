@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/18bc47e8-85ce-48c2-8ea2-359af1ae838b
 layout: session
 title: "OpenStreetMap for Intelligent Speed-Limit Assistance (ISA): The YouSpeed.de Study"
 code: "AQVAYA"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/c4349b36-e9e4-41a7-9403-12f1c55b18d4
 layout: session
 title: "OSM2World: 3D models from OpenStreetMap data"
 code: "XQUCJM"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/74a755b3-2a6a-48d2-8bdb-6eab9a237042
 layout: session
 title: "StreetMeasure - A low cost open source framework using monocular depth estimation supporting OSM measurement tags from 360 streetview photos, the case of SP6"
 code: "LKLQFT"

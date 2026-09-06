@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/5949fab5-268b-4f1e-b3df-b733a51ca96a
 layout: session
 title: "OSRM is Back: Revitalizing the OSM-Native Routing Engine"
 code: "ZR8RTX"

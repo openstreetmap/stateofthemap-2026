@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/12210375-9333-4db0-aace-47431d18f921
 layout: session
 title: "OpenStreetMap Data for Spatial Regression Modeling of Urban Operating Speed"
 code: "CAPXCT"

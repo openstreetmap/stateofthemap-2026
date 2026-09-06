@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/7d20bca3-0401-49fc-b729-dd2881dc5614
 layout: session
 title: "Running OpenStreetMap.org in the Age of AI"
 code: "7ED7WQ"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/5e72efd9-35c6-4dac-8c3f-97a24fb2a75b
 layout: session
 title: "From OpenStreetMap APIs to Insightful Data Analysis: Extraction, Analysis, and Mapping with R"
 code: "83LBSJ"

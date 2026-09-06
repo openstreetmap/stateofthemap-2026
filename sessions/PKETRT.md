@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/27afac93-466f-45b2-b24c-937e82caff47
 layout: session
 title: "Style-as-Code: Moving Beyond &#34;Off-the-Shelf&#34; to Unlock the Full Richness of OSM Data"
 code: "PKETRT"

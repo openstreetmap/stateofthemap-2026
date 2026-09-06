@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/96b36bb2-46d2-494e-bc2f-548c83a4ad4e
 layout: session
 title: "Revealing past railway networks from OSM data"
 code: "YNRWXR"

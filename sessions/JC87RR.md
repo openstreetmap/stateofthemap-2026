@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/4f41cecd-80d1-4c21-8347-2186d52fc38f
 layout: session
 title: "Corporate Editing and Collective Intelligence in OpenStreetMap: A Long-Term Analysis of Southeast Asian Case Studies"
 code: "JC87RR"

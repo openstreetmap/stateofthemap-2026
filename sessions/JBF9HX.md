@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/c736f5d7-90f4-4e90-95b2-54ce69768c91
 layout: session
 title: "Panoramax Netherlands"
 code: "JBF9HX"

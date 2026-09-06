@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/e872f279-ad74-44e8-bbc3-83f53e6981cc
 layout: session
 title: "Towards a Real-Time Monitoring System for the Road Network Based on OpenStreetMap and Remote Sensing Data: OSM Road Monitor"
 code: "HYKXYK"

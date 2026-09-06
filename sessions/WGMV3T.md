@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/2d1edbc4-2023-4423-8a17-687874b76ada
 layout: session
 title: "Making a living on OSM by nurturing the commons : inside the French Federation of OSM professionals"
 code: "WGMV3T"

@@ -1,5 +1,5 @@
 ---
-layout: session
+https://peertube.openstreetmap.fr/watch/7ruGRTSDb4ifighjzaqdvZ?start=27m2shttps://peertube.openstreetmap.fr/watch/7ruGRTSDb4ifighjzaqdvZ?start=27m2slayout: session
 title: "State of Panoramax"
 code: "PCMPNK"
 speaker_names: ["Christian Quest", "Adrien Pavie"]

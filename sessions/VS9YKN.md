@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/e8cbb030-a805-4757-9d5e-11c6e7f581e0
 layout: session
 title: "Structuring road information in open data: a nested Wikidata – OSM – BD TOPO (IGN) architecture co-produced by territorial authorities"
 code: "VS9YKN"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/54b433e3-aa8e-4ad4-9827-d938e61c312c
 layout: session
 title: "The Republic of Maps : Together, let's unlock the power of maps to build democracy"
 code: "CWT8FR"
