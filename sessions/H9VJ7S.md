@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/98a4adbd-2d91-4f4e-bb15-50f23ef8eb31
 layout: session
 title: "National Mapping and Cadastral agencies (NMCAs) and their relationship with OSM: the example of the German BKG"
 code: "H9VJ7S"
