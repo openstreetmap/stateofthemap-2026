@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/071252d4-83b8-4ebf-ae1a-014b98060c6b
 layout: session
 title: "CartAGen, an innovative tool to generalise OSM data"
 code: "V9ASNX"
