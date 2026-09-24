@@ -17,7 +17,7 @@ color: dark-nav
           </span>
           <br>
           <span>
-            Duration: {{page.length}}&nbsp;minutes{% unless page.noQA %} (plus Q&amp;A){% endunless %}
+            {{ page.submission_type }} ({{page.length}}&nbsp;minutes{% unless page.noQA %} plus Q&amp;A){% endunless %}
           </span>
         </p>
 	{% if page.prerecorded %}<p>This talk is pre-recorded.</p>{% endif %}

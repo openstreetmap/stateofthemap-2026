@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 It has been more than a decade since OpenHistoricalMap was last presented at State of the Map. In that time, the project has grown into a major platform for mapping the history of the world: cities as they evolve, infrastructure that no longer exists, changing landscapes, shifting borders, and many other layers of time. We are collecting it together in one place, as open data, in a spirit of cooperation.

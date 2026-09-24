@@ -13,6 +13,7 @@ resources: [{ description: "My slides", url: "https://pretalx.com/media/sotm2026
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 As OpenStreetMap matures, volatile IDs hinder data integration. We propose the OSM Persistent ID Specification (OSMPID) to provide stable references for developers, the tourism sector, Wikidata and others. Serving as a community-driven alternative e.g. to the GERS-ID, we introduce an HTTP-based Object Identity Service prototype. This talk outlines the technical roadmap to empower reliable, long-term applications built on integrated open OSM location data.

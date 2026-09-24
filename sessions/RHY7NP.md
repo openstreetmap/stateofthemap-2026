@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 We say goodbye to this year’s State of the Map conference and to Paris. You will see some impressions from the conference and we say thank you to all volunteers and to the local team in Paris. We hope that we can already announce the venue of State of the Map 2027.

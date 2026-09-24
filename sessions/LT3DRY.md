@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 In this talk, we will present the open source routing engine MOTIS.

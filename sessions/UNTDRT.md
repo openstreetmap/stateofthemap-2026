@@ -13,6 +13,7 @@ resources: [{ description: "Presentation", url: "https://pretalx.com/media/sotm2
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 Terraink is an open-source web application that turns OpenStreetMap data into printable city map posters without requiring installation, programming, or GIS expertise. I analyze its first 60 days as a mixed-methods natural experiment to examine whether lowering technical barriers reveals latent demand for OSM-derived outputs beyond expert user communities.

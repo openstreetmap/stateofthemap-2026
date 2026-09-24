@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 As a mapper, we spend hours micro-mapping surface types, tactile paving, complex building geometries or trees. But when you check the map, they are invisible.

@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: fr
+submission_type: Talk
 ---
 
 OpenStreetMap is one of the richest databases in the world. state of the map

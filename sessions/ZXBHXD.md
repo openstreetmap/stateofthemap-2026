@@ -13,6 +13,7 @@ resources: [{ description: "PDF slides", url: "https://pretalx.com/media/sotm202
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Pardon our dust as OpenStreetMap’s core software projects undergo some renovations! Now a year into the core software roadmap that we debuted in Manila and Dundee, we’ll review some highlights from the past year in the openstreetmap-website project (the Web frontend and API), followed by a preview of things to come in the next several months. We’ll go beyond our monthly summaries on the forum to offer a look into the day-to-day experience of contributing to these projects and how it has improved over the past year.

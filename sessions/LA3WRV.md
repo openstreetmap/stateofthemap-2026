@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026-os
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 An introduction to the public transport stop analysis (PTSA) project for visualizing public transport mapping habits around the world and a closer look at how to efficiently and accurately measure lots of distances between neighboring OSM objects.

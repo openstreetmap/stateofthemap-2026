@@ -13,6 +13,7 @@ resources: [{ description: "Base Nationale des Aménagements Cyclables", url: "h
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 In the wake of the French &#34;Loi d'Orientation des Mobilités&#34; (LOM), local authorities faced a major challenge: how to produce and share standardized, high-quality data on cycling infrastructure? 

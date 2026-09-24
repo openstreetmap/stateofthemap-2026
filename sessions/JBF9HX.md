@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Over the past year, several Dutch governmental organizations collaborated to initiate Panorama, a new open street‑level imagery effort. This talk explains how the project was set up, how data collection and processing were organized, and how the resulting imagery strengthens public digital autonomy. Similar to developments in France—where IGN has taken a leading role in producing sovereign geospatial data—Panorama aims to reduce dependency on commercial suppliers and ensure long‑term control over essential imagery.

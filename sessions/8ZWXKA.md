@@ -12,6 +12,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 ## Gathering prices of the world: Open Prices, between OSM and Open Food Facts 

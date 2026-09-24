@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Talk
 ---
 
 We present OSM Road Monitor, an approach towards a near-real-time system that cross-validates OpenStreetMap road updates against remote sensing imagery to detect and assess changes in the road network. We discuss three categories of computer vision approaches for road change detection and demonstrate a proof of concept on a selected set of orthophotos, where we showcase that a SpaceNet5-winning segmentation ensemble can successfully identify newly constructed and demolished road segments.

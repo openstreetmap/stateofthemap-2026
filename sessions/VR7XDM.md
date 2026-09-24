@@ -12,6 +12,7 @@ resources: []
 recording: False
 prerecorded: False
 language: en
+submission_type: Birds of a Feather/BOF Session
 ---
 
 Feedback welcome, cursed problems welcome. Maybe something will be fixed with live coding.

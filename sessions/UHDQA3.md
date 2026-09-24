@@ -12,6 +12,7 @@ resources: []
 recording: False
 prerecorded: False
 language: en
+submission_type: Birds of a Feather/BOF Session
 ---
 
 Let us improve the tagging schema. No coding experience needed.

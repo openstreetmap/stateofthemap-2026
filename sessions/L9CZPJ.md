@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Access to affordable, nearby daycare is a pressing concern for many parents, particularly young mothers who seek to continue their education or participate in the workforce. Yet, in many parts of Africa, spatial data on childcare facilities remains sparse, outdated, or completely unavailable.

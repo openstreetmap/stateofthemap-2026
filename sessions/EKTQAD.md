@@ -12,6 +12,7 @@ resources: [{ description: "Workshop Slides", url: "https://pretalx.com/media/so
 recording: False
 prerecorded: False
 language: en
+submission_type: Workshop
 ---
 
 This beginner-friendly workshop introduces the ohsome-dashboard as an accessible entry point to OpenStreetMap analytics — no coding skills required. Participants will learn how to explore OSM data through hands-on exercises, developing their own ohsome-filters with the help of the OSM-Wiki and TagInfo. These ohsome-filters are then applied to user-selected regions to investigate aspects such as attribute completeness, data currentness, and mapping activity. The workshop concludes with an outlook towards more advanced analyses, including changeset-based exploration and user statistics.  

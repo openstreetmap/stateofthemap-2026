@@ -12,6 +12,8 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Lightning Talk
 ---
 
+Lightning Talk
 

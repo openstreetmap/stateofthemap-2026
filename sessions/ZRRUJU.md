@@ -13,6 +13,7 @@ resources: [{ description: "Ultra", url: "https://overpass-ultra.us" }]
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 This talk will introduce Ultra, an alternative high-performance front-end to overpass, qlever, sophox, and more powered by MapLibre GL JS. It will cover the basics of how Ultra works: choosing a backend query service and authoring your query as well as how to style the query results using MapLibre.

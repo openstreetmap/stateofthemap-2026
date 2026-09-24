@@ -13,6 +13,7 @@ resources: [{ description: "Presentation showed", url: "https://pretalx.com/medi
 recording: True
 prerecorded: False
 language: en
+submission_type: Extended Talk
 ---
 
 La République des Cartes (&#34;The Republic of Maps&#34;) is a French civic initiative launched by IGN, the national mapping agency and fifteen partners to put cartography at the service of democratic participation, territorial decision-making and popular education. 

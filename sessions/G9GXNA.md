@@ -12,6 +12,7 @@ resources: [{ description: "JOSM Map Styles", url: "https://josm.openstreetmap.d
 recording: False
 prerecorded: False
 language: en
+submission_type: Workshop
 ---
 
 There are already existing many JOSM paint styles for different usecases. But didn't you always felt like hm yes this is very useful but I would prefer if it shows in red instead of green because in my area this is not visible enough. Or you working with a special niche data that haven't been covered by another paint style yet. Why not make your own? Let's explore the openness of JOSM and use it for our benefit.

@@ -12,6 +12,7 @@ resources: []
 recording: False
 prerecorded: False
 language: en
+submission_type: Workshop
 ---
 
 Starting out mapping can feel scary, especially if one has little or no prior knowledge about the tools, concepts and workflows of creating a map. OpenStreetMap, as a collaborative project, is welcoming every new mapper with open hands and tries to help and guide new contributors by offering mapping tools that are well suited also for beginners. This workflow showcases some of these tools, in particular the iD editor, the default map editor on openstreetmap.org. The basics of mapping are shown in a few examples of common mapping situations. Also covered are the ins and outs of the OSM community, resources where to find help, as well as the most important concepts of OpenStreetMap's data and tagging model.

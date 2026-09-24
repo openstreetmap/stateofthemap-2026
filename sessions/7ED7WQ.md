@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Running OpenStreetMap.org services in the age of AI has introduced some interesting, surprising, and occasionally amusing operational challenges.

@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 There are several FOSS solutions for routing on OSM road data at planet scale, but until recently we lacked an intermodal router at a similar scale which also takes public transport and rental vehicles into account. Transitous is a community-run public transport routing service built entirely with Free Software and Open Data to fill this gap. Started in 2024 it meanwhile covers more 300,000 concurrent trips in over 60 countries.

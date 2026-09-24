@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Talk
 ---
 
 Large-scale scraping attacks on OpenStreetMap's infrastructure have exposed a fundamental tension between open geodata as a community-maintained commons and its role in current commercial AI development dynamics. This presentation examines the implications of AI-driven data extraction for OSM’s infrastructure and licence compliance guidelines as well as its consequences for OSM’s position within the geospatial data ecosystem.

@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Street-level imagery has a huge potential for OpenStreetMap mappers. Panoramax is a project to collect and manage street-level imagery, implemented as free and opensource software. It allows the crowdsourcing of images, which are then usually openly licensed.

@@ -13,6 +13,7 @@ resources: [{ description: "Presentation", url: "https://pretalx.com/media/sotm2
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Maps have been essential in the development and the success of OpenStreetMap.  They were and still are the single most important medium of communication across language and culture gaps between members of the OSM community.

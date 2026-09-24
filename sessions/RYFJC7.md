@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 As the Executive Director and Program Coordinator at OpenStreetMap US, Maggie and Alyssa are lucky to say OpenStreetMap is their full-time job. OpenStreetMap US is both a local chapter of the OpenStreetMap Foundation, and an independent 501(c)(3) nonprofit organization in the United States. This presentation will explore how OpenStreetMap US has evolved the organization’s approach to community building, as communities of mappers emerge and dissolve across the United States.

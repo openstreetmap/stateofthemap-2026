@@ -13,6 +13,7 @@ resources: [{ description: "Wonders of OSM slide (all interactive with links on 
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 A quick tour of interesting places and anecdotes to explore on OpenStreetMap around the world🌍: because it’s beautiful, surprising, and delightfully crazy. Anything that makes you say, “Wooow!🫨 How?”🤔 or... “Why?🙃”, because that's definitely the kind of thing that leads people to OpenStreetMap! :)

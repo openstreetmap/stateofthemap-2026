@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 OpenStreetMap is one of the most powerful open geospatial datasets in the world, yet for many who stand to benefit most from it, it remains invisible. NGO workers planning humanitarian responses, students conducting research, local planners building community infrastructure, and developers looking to build location-aware applications often don't know where to start, which tools to use, or how OSM can realistically achieve their goals for their work.

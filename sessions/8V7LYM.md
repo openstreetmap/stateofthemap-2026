@@ -13,6 +13,7 @@ resources: [{ description: "slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Turns out that some people not only ignore OpenStreetMap license, but use OpenStreetMap servers to power their license-violating project. At least in such cases license enforcement can become a bit easier: as now their server access can be switched of.

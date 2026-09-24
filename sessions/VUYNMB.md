@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Mapy.com is a widely used mapping application with a strong focus on hiking and cycling, used daily by millions of people.

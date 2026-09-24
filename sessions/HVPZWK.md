@@ -13,6 +13,7 @@ resources: [{ description: "Slides as Web page", url: "https://cartes.app/sotm26
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 In Lyon's State of the Map France 2024, cartes.app was pitched : a French libre Web alternative to Google Maps built on OSM (among lots of free sources). 

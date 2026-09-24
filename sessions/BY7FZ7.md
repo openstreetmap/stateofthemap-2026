@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 As OpenStreetMap becomes more mature and complete, the challenges now lie in ensuring data quality. Mappers may receive customised feedback on their contributions, and data reusers are seeking greater confidence in the information they rely on.

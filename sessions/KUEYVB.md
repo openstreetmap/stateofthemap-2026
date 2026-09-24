@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Talk
 ---
 
 OpenStreetMap centerlines carry enough topological, geometric and semantic information to reconstruct lane-level road networks — if interpreted correctly. This study proposes treating OSM centerlines as structural representations of dominant traffic flow rather than geometric midlines, and reconstructs detailed lane networks and 2D areal road geometries through a hierarchical, connectivity-driven process guided by topology, geometry, and OSM tag semantics. Applied to Delft, the Netherlands, the framework produces a complete, functionally typed lane-level network and seamless areal road representations covering diverse urban road configurations, validated against satellite imagery.

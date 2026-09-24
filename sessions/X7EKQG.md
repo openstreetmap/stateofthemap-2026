@@ -13,6 +13,7 @@ resources: [{ description: "Slides (PDF)", url: "https://pretalx.com/media/sotm2
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 LeBonTag is an open-source web application that allows organizations to review OpenStreetMap changes before integrating them into their own datasets.

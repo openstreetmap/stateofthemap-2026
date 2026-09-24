@@ -12,6 +12,7 @@ resources: []
 recording: False
 prerecorded: False
 language: fr
+submission_type: Workshop
 ---
 
 How do we turn a one-day contributor — someone introduced to OSM at a mapathon, an outreach booth or an awareness event — into a mapper who keeps contributing over time?

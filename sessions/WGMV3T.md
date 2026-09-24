@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 The Fédération des pros d’OpenStreetMap (FPOSM) is the French non‑profit organization that unites companies and professionals whose services and tools are built on OpenStreetMap, and who are committed to keeping OpenStreetMap a healthy digital commons. 

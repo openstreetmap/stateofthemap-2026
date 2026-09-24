@@ -13,6 +13,7 @@ resources: [{ description: "slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 The talk will present the web application *Where are my ways?*. It shows all deleted ways in their last visible version on the OpenStreetMap database. The talk will focus on the challenges raised by the OpenStreetMap data model and show how vandals can still evade such a tool. It will also present findings about the different types of deletions.

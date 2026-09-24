@@ -13,6 +13,7 @@ resources: [{ description: "Presentation slides provided by BKG", url: "https://
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 The Federal Agency for Cartography and Geodesy (BKG) has a long history on the usage of OpenStreetMap data and plans to further set this data as a reliable source for geospatial products published by governmental bodies. The aim of the talk is to give an overview how NMCAs and federal institutions in Germany use the geospatial data collected and publicized by mappers around the globe and how we want to strengthen the interaction between public administration and the OSM community.

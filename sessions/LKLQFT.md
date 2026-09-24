@@ -13,6 +13,7 @@ resources: [{ description: "Presentation", url: "https://pretalx.com/media/sotm2
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 The StreetMeasure framework addresses the critical lack of road dimension (width=*, lanes=*) in OpenStreetMap. Applied to SP6 provincial road (Piacenza, Italy), by utilizing DA360 for monocular depth estimation and SAM 2 for segmentation, it reconstructs 3D point clouds from distant crowdsourced street-level imagery, which was difficult for traditional photogrammetry. Then it aligns generated depth data with high-resolution satellite transects to recover scale.  This open-source pipeline enriches OSM tags, supports provincial infrastructure management, and enables immersive urban planning simulations.

@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 [MapRoulette](https://maproulette.org/) is a micro-task platform for OpenStreetMap. Thousands of mappers use MapRoulette every month to find small but meaningful fixes to the map: a building that crosses a road, a business with an invalid phone number, a river that flows the wrong way. Each task is designed to be quick to fix and easy to understand. There are tasks for all mapper experience levels and for almost every country in the world. MapRoulette is a community-driven platform: anyone can create tasks using an easy-to-use interface. In 2025 alone, mappers made around 700'000 map improvements using MapRoulette!

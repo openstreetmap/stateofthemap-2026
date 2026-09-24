@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 This talk provides an overview of tagging practices for mapping LGBTQ+ venues and spaces in OSM, covering history of mapping. We'll talk about what sort of things can, and can't be tagged, what should, and should not, be mapped. Additionally the [Lgbtq:=* Revision](https://wiki.openstreetmap.org/wiki/Proposal:Lgbtq%3D*_Revision) tagging proposal will be discussed.

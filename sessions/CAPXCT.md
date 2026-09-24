@@ -13,6 +13,7 @@ resources: [{ description: "Presentation", url: "https://pretalx.com/media/sotm2
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 This study evaluates how well OpenStreetMap (OSM) data can explain urban operating speeds using spatial regression models in Curitiba, Brazil, combining naturalistic driving data with socioeconomic and built-environment variables. The results show that OSM-derived variables, especially road network density and traffic signals, are useful for identifying spatial patterns in speed, but their limited detail reduces predictive accuracy, making OSM more suitable for exploratory large-scale safety analyses than precise modeling.

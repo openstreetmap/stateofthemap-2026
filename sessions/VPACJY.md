@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 ‘Adopt Your Town’ is a workshop proposed for third-year high school pupils, to be conducted during the 2025/26 school year. The primary target of this initiative is not only to improve OpenStreetMap. This educational project aims to promote a sense of unity and cohesion among pupils and their local community.

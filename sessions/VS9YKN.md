@@ -13,6 +13,7 @@ resources: [{ description: "The support of my talk &#34;Structuring road informa
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Road infrastructure data held by French territorial authorities is rich, authoritative and largely invisible to the open data ecosystem. This talk presents the journey of an active OSM and Wikidata contributor who also works in road information management at municipal, intermunicipal and departmental levels in Southern France. This dual role has led to the design of a coherent, nested open data architecture for road intelligence.

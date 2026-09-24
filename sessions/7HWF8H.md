@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Talk
 ---
 
 This study evaluates OpenStreetMap's reliability for global mining mapping, revealing significant data gaps and classification errors compared to scientific benchmarks. It highlights the need for refined filtering methods and better contributor practices to overcome these geographic and semantic biases.

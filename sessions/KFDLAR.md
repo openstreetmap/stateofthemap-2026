@@ -13,6 +13,7 @@ resources: [{ description: "Lightning talk Marion Porcherie", url: "https://pret
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 The presentation aims to demonstrate how the collaborative and open data routinely collected in OSM can serve as a basis for calculating indicators designed to assess the potential of a green space to promote the health of city dwellers, across its various dimensions (physical, social, mental and environmental health).

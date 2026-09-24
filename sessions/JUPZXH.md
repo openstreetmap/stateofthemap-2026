@@ -12,6 +12,7 @@ resources: []
 recording: False
 prerecorded: False
 language: en
+submission_type: Workshop
 ---
 
 Did you know JOSM can do many things better than your favorite Desktop GIS application? Imagine replacing your Desktop GIS with JOSM that's it :). Some JOSM Aha! moments.

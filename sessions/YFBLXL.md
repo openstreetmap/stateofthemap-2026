@@ -13,6 +13,7 @@ resources: [{ description: "Slides PDF", url: "https://pretalx.com/media/sotm202
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 OSM for Cities is a web platform that makes OpenStreetMap usable for anyone exploring a city's data. Search any city, browse 200+ dataset categories, and download GeoJSON filtered by administrative boundaries. No GIS expertise required.

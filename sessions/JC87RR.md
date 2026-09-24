@@ -13,6 +13,7 @@ resources: [{ description: "Slides - PDF", url: "https://pretalx.com/media/sotm2
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Talk
 ---
 
 This abstract examines how corporate editing affects OpenStreetMap’s collective intelligence. Using OSM data from 2015–2025 for several countries in Southeast Asia, it operationalizes collective intelligence through measures of completeness, semantic richness, geometric complexity, diversity, innovation, and evenness, combined into a composite score. Descriptive country-level analysis and local-projection models for Thailand and Malaysia show that corporate editing has real but bounded effects: it often improves innovation and completeness, but some waves reduce decentralization. Effects fade within about two years, suggesting OSM’s resilience.

@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 This presentation introduces a new step-by-step approach that aims at helping to fix the incompleteness and heterogeneity of the OSM data. 

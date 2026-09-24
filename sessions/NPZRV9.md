@@ -12,6 +12,7 @@ resources: [{ description: "Centipede-RTK", url: "https://www.centipede-rtk.org/
 recording: False
 prerecorded: False
 language: fr
+submission_type: Workshop
 ---
 
 Centipede-RTK is a free and collaborative network for sharing open GNSS RTK data. This network enables you to obtain centimeter accuracy geolocation. Initiated in France in 2019, the project quickly spreads over Europe and the entire World.

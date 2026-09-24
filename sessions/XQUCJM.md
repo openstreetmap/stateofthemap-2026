@@ -13,6 +13,7 @@ resources: [{ description: "Slides (PDF)", url: "https://pretalx.com/media/sotm2
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 OSM2World is an open source tool which produces detailed 3D models from OpenStreetMap data. In some parts of the world, OSM has reached the necessary level of detail for rich 3D scenes, containing outdoor and indoor views of buildings, roads with lane details, urban infrastructure, and many other elements.

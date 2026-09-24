@@ -12,6 +12,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Birds of a Feather/BOF Session
 ---
 
 Please meet at the whiteboards for the BoFs.

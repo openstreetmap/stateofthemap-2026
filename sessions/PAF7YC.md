@@ -13,6 +13,7 @@ resources: [{ description: "Slides - PDF", url: "https://pretalx.com/media/sotm2
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Talk
 ---
 
 This talk will introduce the OSM Science/SotM Academic Track concept, review its history and past editions and will discuss the current state of OSM Science as reflected in the talk included within this track

@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 The UN Maps Programme, an initiative from the Department of Operational Support at the United Nations, provides topographic maps, operational geo-information, search and navigation tools, and imagery and street-level base maps to peacekeeping and humanitarian actors in UN mission areas. UN Maps has established a community of OpenStreetMap (OSM) data contributors called UN Mappers. The UN Mappers community is a collective of open mapping enthusiasts dedicated to building accurate, crowdsourced geospatial data to support peacekeeping and humanitarian missions on the ground.

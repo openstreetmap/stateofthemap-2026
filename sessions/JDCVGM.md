@@ -13,6 +13,7 @@ resources: [{ description: "Île-de-France Mobilités plan de proximité : Valen
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Producing a single map targeted at public transport users might be straightforward... but what if you had to produce a hundred? Or a thousand? Or **35,000**..? All of them adhering to high standards of quality and consistency, while also ensuring they are up-to-date, across Europe's most extensive public transport network?

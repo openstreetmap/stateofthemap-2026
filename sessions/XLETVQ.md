@@ -12,6 +12,7 @@ resources: []
 recording: False
 prerecorded: False
 language: en
+submission_type: Workshop
 ---
 
 Publishing a map on a website can seem like a daunting task. It does not have to be! In this workshop you will learn everything you need to know to publish a map that uses OpenStreetMap on a website.

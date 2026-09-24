@@ -13,6 +13,7 @@ resources: [{ description: "link to the slides", url: "https://riatecom.github.i
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Alongside the enrichment of the OpenStreetMap database over the years, numerous tools have been developed to interact with or to create derivative products: editors, data extraction tools, geocoding services, slippy maps, or routing engines. Most of these tools are accessible via scripting languages through APIs or dedicated libraries. Among these languages, R stands out as a free and open source programming language and software for statistical computing and data visualization. Complemented by more than 23,500 user-contributed packages hosted on the Comprehensive R Archive Network in 2026, the language’s versatility allows users to build unified workflows within an environment conducive to reproducible research. R is widely used for research purposes in many fields beyond statistics, such as biology, social sciences, or geomatics. A subset of its packages forms a robust and mature spatial ecosystem that makes it easy to handle and display spatial data. Consequently, R provides seamless access to various APIs and tools for downloading and filtering OpenStreetMap data, querying shortest routes and itineraries, or generating both static and interactive maps. 

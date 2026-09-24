@@ -12,6 +12,7 @@ resources: []
 recording: False
 prerecorded: False
 language: en
+submission_type: Workshop
 ---
 
 The OpenStreetMap Foundation owns the OpenStreetMap hardware and trademarks. It uses money to keep the platform running.

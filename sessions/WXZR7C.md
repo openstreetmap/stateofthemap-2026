@@ -13,6 +13,7 @@ resources: [{ description: "Slides for the &#34;Moving around with OpenStreetMap
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 The availability of road network data at scale in OSM has fueled a solid ecosystem of open-source projects dedicated to route planning: OSRM, Openrouteservice, Valhalla, GraphHopper, Jsprit, Vroom to just name a few.

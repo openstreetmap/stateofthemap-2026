@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 The world is big. So is the global OpenStreetMap dataset -- and it's growing bigger each day. This is great, of course, since OSM is becoming ever more complete and detailed. But working with this data volume requires high-end hardware, SQL skills, and ample patience.

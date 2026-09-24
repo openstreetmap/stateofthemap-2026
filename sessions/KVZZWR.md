@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 The Centipede-RTK projects aims to provide affordable centimeter-level GNSS positioning for uses heretofore limited to professional use (surveyors, famers...), due to its cost.

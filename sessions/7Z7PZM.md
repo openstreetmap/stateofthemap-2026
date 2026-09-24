@@ -13,6 +13,7 @@ resources: [{ description: "Presentation Slides", url: "https://pretalx.com/medi
 recording: True
 prerecorded: False
 language: en
+submission_type: Extended Talk
 ---
 
 In this session the topic of OSM POI data and its usefulness for blind navigation users will be explored. Through examples ranging from height of buildings, inscriptions of monuments and random facts dropped in editor's notes, the participants will discover how complete POI data contributes to a more accessible and inclusive world.

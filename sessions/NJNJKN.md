@@ -12,6 +12,7 @@ resources: []
 recording: False
 prerecorded: False
 language: en
+submission_type: Workshop
 ---
 
 You are invited for a StreetComplete walk! We will map nearby area using StreetComplete. Please, bring a phone with StreetComplete installed on it.

@@ -13,6 +13,7 @@ resources: [{ description: "Export - a bit yanky (images are sometimes spread ov
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 As main developer of MapComplete, I do think a lot about how people edit OpenStreetMap and how those edits relate to the rest of the data and the rest of the ecosystem.

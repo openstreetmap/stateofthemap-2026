@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 SNCF Transilien has mapped with great details 436 train stations in the Greater Paris area. This work was conducted in several stages, between 2018 and 2022. An application using this data helps travelers to find their way inside and around railway stations. The app displays multi-level floor plans, enables users to find equipments and services, and provides indoor/outdoor routing with an option to use elevators rather than stairways.

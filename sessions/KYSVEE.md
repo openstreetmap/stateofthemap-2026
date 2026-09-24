@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Talk
 ---
 
 This study introduces a novel intrinsic completeness metric for OpenStreetMap data, based on the temporal evolution of mean feature geometry, requiring only aggregate feature statistics and no external reference. The results currently depict an exploratory phase and show the method to be robust, computationally simple and potentially universally applicable, albeit still restrictive.

@@ -13,6 +13,7 @@ resources: [{ description: "Presentation Slides", url: "https://pretalx.com/medi
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 With the recent support on openstreetmap.org for Maplibre-based maps, I thought it would be interesting to create a new version of our Transport map styles, to take full advantage of the client-side rendering.

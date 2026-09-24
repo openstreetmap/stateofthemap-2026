@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Geocoders APIs are usually generalised to return results that are good enough for most people. In this talk we want to talk about how to create a geocoder that is specialized for your use case and returns results that are best for your users. The talk introduces the newest features of the Photon geocoder and shows how they can be used to easily set up a truly customized search engine. We'll explain along the way the basic principles how a geocoder does its job and

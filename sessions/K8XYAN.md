@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 SNCF Réseau is the railway infrastructure manager of France. Culturally in this big (53 000 employees), old (founded in 1938 to nationalize pre-existing railway companies) company, geographic and open data is little well known nor used. 

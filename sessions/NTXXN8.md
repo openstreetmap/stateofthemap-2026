@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 This study analyzes OpenStreetMap contributions in Ukraine since the February 2022 invasion, crossing OSM building edits with ACLED conflict events and frontline geometries. Results reveal a sharp spike in edits following the invasion, concentrated around Kyiv, alongside a moderate correlation between bombardment events and mapping activity. Spatial analysis shows contributions near the frontline even in occupied areas, suggesting deletions and ruin tags as proxies for physical destruction.

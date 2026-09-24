@@ -13,6 +13,7 @@ resources: [{ description: "Conference paper", url: "https://doi.org/10.5281/zen
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 This work examines OpenStreetMap as an open interoperability layer for Alpine torrent control structures (e.g., check dams, bed sills), aligning the waterway=check_dam tagging schema with published hydro-geomorphic risk indices (e.g., PFI, MPi, SCR). A snapshot across European countries reveals very low schema adoption and attribute completeness; a conflation pilot against the regional database of the Friuli-Venezia Giulia Region (Northeastern Italy) establishes the first OSM-to-cadastre benchmark in this domain.

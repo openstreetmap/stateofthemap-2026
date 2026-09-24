@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Extended Talk
 ---
 
 Panoramax started a few years ago in France, initiated by OpenStreetMap France and IGN.

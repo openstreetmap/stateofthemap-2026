@@ -13,6 +13,7 @@ resources: [{ description: "ohsome_2.0_slides", url: "https://pretalx.com/media/
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 The ohsome framework makes OSM data analysis, data quality assessment and data download simple - for community members, researchers and developers. SOTM 2026 marks a fundamental milestone for us as we want to **introduce ohsome-planet** and **release ohsome API v2.0**. During this talk you can get insights about design decisions, new features, common use cases and the road map ahead.

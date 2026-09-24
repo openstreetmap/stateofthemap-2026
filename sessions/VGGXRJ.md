@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://frodrigo.github.io/SotM-2026-
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Clearance is an open-source quality-control proxy for OpenStreetMap replication. Rather than letting every changeset flow directly into downstream systems, it holds suspicious or potentially breaking changes for review while keeping compliant data flowing continuously. It acts as a standard OSM data source, providing PBF extracts, diffs and an Overpass API compatible endpoint of the filtered local copy. It is already used by over 40 organizations, including emergency services in Navarre, Spain, and is under review by the French railway infrastructure company SNCF Réseau and Belgian crisis services.

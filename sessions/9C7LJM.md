@@ -13,6 +13,7 @@ resources: [{ description: "Ascend Maps Github", url: "https://github.com/stylus
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 This talk presents an open-source stack for building, rendering, and using OpenStreetMap vector tiles. [Ascend Maps](https://github.com/styluslabs/maps) is a cross-platform application for interactive maps. It is highly customizable, with hiking, cycling, and transit views for the base map, user-editable sources, styles, and shaders for custom maps, and plugins for search, routing, and map sources.

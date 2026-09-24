@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 OSRM was once the go-to routing engine for anyone working with OpenStreetMap data: fast, purpose-built, and deeply aligned with OSM’s data model. But in recent years, the project lost momentum. Issues piled up, pull requests stalled, and the community started asking: is anyone still home?

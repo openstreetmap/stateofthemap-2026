@@ -12,6 +12,7 @@ resources: [{ description: "Presentation", url: "https://filesender.renater.fr/?
 recording: False
 prerecorded: False
 language: en
+submission_type: Workshop
 ---
 
 Many people turn to Wikipedia when looking for information about the OpenStreetMap ecosystem.

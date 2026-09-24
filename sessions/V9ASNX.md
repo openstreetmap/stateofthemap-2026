@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Talk
 ---
 
 CartAGen is an open source Python library that highly facilitates the use of map generalisation algorithms. This new tool could change how basemap producers that rely on OSM data design their maps.

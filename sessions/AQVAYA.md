@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 YouSpeed.de investigates how OpenStreetMap speed-limit tags, area context, and daily diffs can be transformed into an offline smartphone runtime for intelligent speed assistance (ISA). The contribution is a reproducible deployment study showing that a single-file spatial SQLite bundle gives the best measured latency/update trade-off, while route-level replay shows that richer topology is not automatically better under mobile constraints.

@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 The Outdoors Group in France has a selfish purpose: help create OSM-based maps that we and our fellow outdoors practitioners and professionals can safely use to plan and carry out our favorite activities.  We are end users, originally mostly hikers and mountain bikers, who came to OSM to create better maps and who discovered on the way that this will require other classes of end users to adopt OSM or at least find their way around it: route operators, tourism offices, land managers, mountain rescue services, etc.

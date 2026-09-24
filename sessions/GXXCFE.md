@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Panel
 ---
 
 This panel discussion is about understanding motivations and objectives behind everyone's journey with OpenStreetMap. The goal of the panel discussion is to collect ideas and suggestions to draft a survey to be disseminated among the whole OSM community and better understand what motivates mappers to do what they do best!

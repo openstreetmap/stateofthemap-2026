@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: fr
+submission_type: Talk
 ---
 
 Hospital campuses can be overwhelming—especially in stressful situations where finding the right department quickly really matters. In collaboration with a major French hospital, we built an application powered by OpenStreetMap that brings together mapping, medical directories, accessibility data, event management and multimodal routing to guide users seamlessly to their destination. In this talk, we’ll share the functional, technical, and organizational challenges behind turning complex hospital environments into clear and accessible navigation experiences.

@@ -13,6 +13,7 @@ resources: [{ description: "Slide deck", url: "https://pretalx.com/media/sotm202
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 How do you deliver smooth, detailed mapping to millions of passengers aboard French TGV trains while working within tight storage and server resource constraints? This talk traces the journey of renewing the mapping system for the WiFi portal on board the TGV fleet (300 train sets).

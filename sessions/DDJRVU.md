@@ -13,6 +13,7 @@ resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2026/su
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 CoMaps started in May 2025 as a fork of Organic Maps, with the goal of providing digital maps and navigation tools that are 100% open source and transparently made by and for community. Since then, the community has shipped ~2 updated app versions per month. Among other things, those have improved core features, made the app more international, expanded the integration with the OSM ecosystem and reduced the existence of single points of failures in the provisioning of the app. Here, we share some of updates, how CoMaps is governed and how you can get involved.

@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Panel
 ---
 
 Every map embeds choices: what to show, what to omit, what to centre, who is included as a stakeholder, who decides on the legend. Most of these choices are invisible to the people who use the resulting maps as inputs into their daily lives — and into democratic decisions, from a local town-planning vote to a national policy debate.

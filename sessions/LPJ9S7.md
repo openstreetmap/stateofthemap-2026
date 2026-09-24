@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Panel
 ---
 
 Join the OSMF Board for our Ask Us Anything session. The session will start with a short update presentation from the Board, and then we will switch to an open discussion with the community. Questions can come from the room or from community submissions gathered ahead of the event, on recent work, current priorities, and future plans.

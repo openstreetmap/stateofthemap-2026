@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Our university won a call for proposals from the French ministry of higher education, research and space, to develop program regarding disability and inclusion in higher education and created the [“Tous EGO”](https://www.univ-brest.fr/fr/page/tous-ego-ensemble-pour-grandir-et-ouvrir) program.

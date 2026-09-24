@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 This talk presents two projects: Sourdough (a new vector tile schema) and Layercake (thematic extracts of OSM data in cloud-native formats). These projects serve different audiences but have similar design goals: to make it easier for people to use OSM data, reduce accidental complexity in data consumers' workflows, and strengthen feedback loops between OSM data users and the mapping community. I will discuss these design goals in depth, along with the technical decisions each project makes in pursuit of them, and conclude with announcements about new features and future roadmaps for both projects.

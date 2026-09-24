@@ -13,6 +13,7 @@ resources: [{ description: "Presentation", url: "https://pretalx.com/media/sotm2
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Processing such large datasets as OSM is a tricky business. In this talk I would love to tell a story about a set of optimisations and tricks that allowed to reduce graph building time for [Valhalla routing engine](https://github.com/valhalla/valhalla) in 3 times. It's a story about C++, OSM and geospatial data and how obvious things can lie unnoticed without a proper tooling - or how to measure performance on such scale and find what to fix.

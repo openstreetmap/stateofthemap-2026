@@ -13,6 +13,7 @@ resources: [{ description: "Presentation_Paris_260829", url: "https://pretalx.co
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 OpenStreetMap data are used in travel demand modelling not only to derive transport networks, but increasingly also to quantify the attractiveness of traffic analysis zones in destination choice modeling. Our paper presents this domain-specific use case and examines which processing steps are particularly suitable for deriving robust attractiveness measures from OSM data. We describe the processing workflow and discuss the usability for modelling purposes. The developed workflow has been implemented in code and is published on GitHub to support transparent and reproducible use.

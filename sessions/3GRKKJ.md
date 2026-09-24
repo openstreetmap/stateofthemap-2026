@@ -13,6 +13,7 @@ resources: [{ description: "presentation slides with image alt text", url: "http
 recording: True
 prerecorded: False
 language: en
+submission_type: Extended Talk
 ---
 
 OpenStreetMap is widely used throughout the emergeny services - but this is not well known in the broader OSM community. In this talk, firefighters and emergency service practicioners will give an overview of how they use and contribute to OSM. 

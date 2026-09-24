@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 Over 10 years ago, the French Institute of Geographic Information (IGN) created &#34;Minecraft on demand&#34;, a web service that uses real geographical data to build playable worlds for voxel games such as Minecraft (worlds made of small unit cubes). After 135,000 voxel world generations, including more than 6,000 from OSM data, the service turned out to be limited, missing flexibility and using only a small fraction of OSM data. The institute capitalized on its experience to design a new standalone and flexible tool able to exploit the full richness of OSM data and much more.

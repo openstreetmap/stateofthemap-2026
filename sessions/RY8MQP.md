@@ -13,6 +13,7 @@ resources: []
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 OpenStreetMap contributions in Ghana and Africa continue to grow rapidly but one big question is how is this growth transforming and impacting the project's future. In this talk I share how decisions by both individual and organized mapping activities continue to create massive useless data in OpenStreetMap that nobody is ever going to use and how we can prevent more of such future occurrences.

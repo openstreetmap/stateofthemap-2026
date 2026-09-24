@@ -13,6 +13,7 @@ resources: [{ description: "Cyclinfra slides for SOTM26", url: "https://pretalx.
 recording: True
 prerecorded: False
 language: en
+submission_type: Talk
 ---
 
 As a follow-up of the European Cycling Declaration, DG MOVE requested the European standardisation body CEN to pave the way for the standardisation of the digital description of cycling infrastructure.

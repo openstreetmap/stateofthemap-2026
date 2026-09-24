@@ -13,6 +13,7 @@ resources: [{ description: "Assessing OSM data quality at scale starting from bi
 recording: True
 prerecorded: False
 language: en
+submission_type: Academic Lightning Talk
 ---
 
 This paper presents a scalable, relation-aware framework for national-scale cycling network analysis by combining the ohsome platform and DuckDB to process the complete Dutch cycling network from OpenStreetMap. It enables efficient, reproducible evaluation of intrinsic data quality and infrastructure characteristics across hierarchical route relations, supporting consistent assessment of cycling network completeness, connectivity at national scale.
