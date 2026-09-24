@@ -14,6 +14,15 @@ prerecorded: False
 language: en
 ---
 
-* Using an import as a QA tool for aligning buildings (Andrew Hain)
-* Gathering price of the world: Open Prices, between OSM and Open Food Facts  (Alex Bourreau)
+## Gathering prices of the world: Open Prices, between OSM and Open Food Facts 
+_Alex Bourreau_
+
+## NLnet Foundation funding
+_Gerben van den Broeke_
+
+## Photon - for POI search
+_Sarah Hoffmann_
+
+## Using an import as a QA tool to identify misaligned buildings
+_Andrew Hain_
 
