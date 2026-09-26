@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/1e95a7ab-7b19-460f-a931-b6388a92ab1e
 layout: session
 title: "Lightning Talks II - OSM.kids"
 code: "ME39WA"

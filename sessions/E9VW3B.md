@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/d70dac45-10d5-4e78-9b4a-802b9d2cb5c1
 layout: session
 title: "Lightning Talks IV - &#34;Milk types&#34; proposal"
 code: "E9VW3B"

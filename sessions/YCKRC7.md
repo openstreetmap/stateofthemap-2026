@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/b37feb47-b01b-411e-82de-7495736162e3
 layout: session
 title: "Lightning Talks III - Geoparquet for OSM"
 code: "YCKRC7"

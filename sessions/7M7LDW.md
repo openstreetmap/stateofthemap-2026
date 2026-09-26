@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/401ebd1a-e4f6-4f2a-b7c8-661ad8cdeaf5
 layout: session
 title: "Lightning Talks IV - Mapping agricultural cooperatives in Africa with MapComplete and Panoramax"
 code: "7M7LDW"

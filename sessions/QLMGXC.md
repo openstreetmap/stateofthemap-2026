@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/df6680d0-9752-4a77-b8bf-b2b706507f1b
 layout: session
 title: "Lightning Talks V - Investigating Hospitality"
 code: "QLMGXC"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/e429bd5c-1c6b-4734-b10c-f482ad58282b
 layout: session
 title: "Lightning Talks V - Exploring bike share time series availability data with DuckDB"
 code: "9KGEEB"

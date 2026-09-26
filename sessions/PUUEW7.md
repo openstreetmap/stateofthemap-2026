@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/d2deca67-2de9-403f-b8b0-48fe6090605a
 layout: session
 title: "Lightning Talks V - Linear maps for shopping streets"
 code: "PUUEW7"

@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/df03878f-991f-470e-ad78-2c5170d10554
 layout: session
 title: "Lightning Talks II - weeklyOSM - What's new?"
 code: "QTPNKW"

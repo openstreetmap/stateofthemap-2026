@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/3b887439-cdd8-4dfd-be6d-2a4331a90489
 layout: session
 title: "Lightning Talks IV - OSM - Wikidata linking update"
 code: "HF7SUJ"

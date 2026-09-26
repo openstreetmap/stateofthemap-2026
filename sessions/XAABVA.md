@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/105d2048-f08b-4153-a9a6-e5e6f17a8ea9
 layout: session
 title: "Lightning Talks III - Enriching OSM with POI's websites"
 code: "XAABVA"

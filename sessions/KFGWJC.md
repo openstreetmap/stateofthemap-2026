@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/0f24429d-421f-4faf-be6f-cd49ffc754cb
 layout: session
 title: "Lightning Talks III - Mapping datacenters as a community with OpenStreetMap"
 code: "KFGWJC"

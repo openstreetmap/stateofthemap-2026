@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/8753d4f4-9ac3-4661-bfcd-03c4a2cf6ee7
 layout: session
 title: "Lightning Talks II - Mapping Historical Photos with Yesterdays"
 code: "YRTP7S"

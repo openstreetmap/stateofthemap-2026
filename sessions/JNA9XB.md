@@ -1,4 +1,5 @@
 ---
+peertube: https://peertube.openstreetmap.fr/videos/watch/644d8757-4f9b-485e-b5fa-b53bf6ab2857
 layout: session
 title: "Lightning Talks III - Mapping cycleways according to ECF"
 code: "JNA9XB"
