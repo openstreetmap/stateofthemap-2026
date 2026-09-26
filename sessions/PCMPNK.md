@@ -1,5 +1,5 @@
 ---
-peertube: https://peertube.openstreetmap.fr/videos/watch/7ruGRTSDb4ifighjzaqdvZ?start=27m2s
+peertube: https://peertube.openstreetmap.fr/videos/watch/34261db0-c5e0-41b6-a449-ae44104c48eb?start=27m2s
 layout: session
 title: "State of Panoramax"
 code: "PCMPNK"
